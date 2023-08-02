@@ -1,0 +1,100 @@
+.main {
+    text-align: center;
+    vertical-align: center;
+    line-height: 100vh;
+    
+  }
+  
+  .navbar {
+    padding: 10px;
+    background-size: contain;
+    background-color: rgb(10, 1, 10);
+  }
+  
+  .nav-links {
+    background-attachment: fixed;
+    padding-left: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: right;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: #fcf8f8;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    color: #f8fafc;
+    box-shadow: 0 12px 16px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(0,0,0,0.19);
+    text-decoration: double;
+  }
+
+  .nav-links li a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    width: 100px;
+    background-color: #0e0101;
+    position: absolute;
+    top: 0;
+    width: 0;
+    transition: all ease-in-out 250ms;
+  }
+
+  .nav-links li a::before {
+    width: 100%;
+  }
+
+  .nav-links li a::before {
+    width: 0%;
+  }
+
+  .nav-links li a::after {
+    width: 100%;
+  }
+
+
+  .nav-links li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+    padding-top: 20px;
+    position: relative;
+  }
+
+  .nav-links ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  li {
+    color: aqua;
+  }
+  h1 { 
+    text-align: center;
+    text-underline-position: above;
+    color: #f8fafc;
+    box-shadow: #0e0101;    
+   }
+   body {
+    background-image: url(./assets/background.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-attachment: fixed;
+   }
+   
+  

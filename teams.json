@@ -1,0 +1,2479 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "shortName": "1. FC Köln",
+      "website": "http://www.fc-koeln.de"
+    },
+    {
+      "id": 2,
+      "shortName": "Hoffenheim",
+      "website": "http://www.achtzehn99.de"
+    },
+    {
+      "id": 3,
+      "shortName": "Leverkusen",
+      "website": "http://www.bayer04.de"
+    },
+    {
+      "id": 4,
+      "shortName": "Dortmund",
+      "website": "http://www.bvb.de"
+    },
+    {
+      "id": 5,
+      "shortName": "Bayern",
+      "website": "http://www.fcbayern.de"
+    },
+    {
+      "id": 6,
+      "shortName": "Schalke",
+      "website": "http://www.schalke04.de"
+    },
+    {
+      "id": 8,
+      "shortName": "Hannover",
+      "website": "http://www.hannover96.de"
+    },
+    {
+      "id": 9,
+      "shortName": "Hertha BSC",
+      "website": "http://www.herthabsc.de"
+    },
+    {
+      "id": 10,
+      "shortName": "Stuttgart",
+      "website": "http://www.vfb.de"
+    },
+    {
+      "id": 11,
+      "shortName": "Wolfsburg",
+      "website": "http://www.vfl-wolfsburg.de"
+    },
+    {
+      "id": 12,
+      "shortName": "Bremen",
+      "website": "http://www.werder.de"
+    },
+    {
+      "id": 13,
+      "shortName": "Kaiserslautern",
+      "website": "http://www.fck.de"
+    },
+    {
+      "id": 14,
+      "shortName": "Nürnberg",
+      "website": "http://www.fcn.de"
+    },
+    {
+      "id": 15,
+      "shortName": "Mainz",
+      "website": "http://www.mainz05.de"
+    },
+    {
+      "id": 16,
+      "shortName": "Augsburg",
+      "website": "http://www.fcaugsburg.de"
+    },
+    {
+      "id": 17,
+      "shortName": "Freiburg",
+      "website": "http://www.scfreiburg.com"
+    },
+    {
+      "id": 18,
+      "shortName": "M'gladbach",
+      "website": "http://www.borussia.de"
+    },
+    {
+      "id": 19,
+      "shortName": "Frankfurt",
+      "website": "http://www.eintracht.de"
+    },
+    {
+      "id": 20,
+      "shortName": "St. Pauli",
+      "website": "http://www.fcstpauli.de"
+    },
+    {
+      "id": 21,
+      "shortName": "Greuther Fürth",
+      "website": "http://www.greuther-fuerth.de"
+    },
+    {
+      "id": 22,
+      "shortName": "Erzgebirge Aue",
+      "website": "http://www.fc-erzgebirge.de"
+    },
+    {
+      "id": 23,
+      "shortName": "Cottbus",
+      "website": "http://www.fcenergie.de"
+    },
+    {
+      "id": 24,
+      "shortName": "Düsseldorf",
+      "website": "http://www.f95.de"
+    },
+    {
+      "id": 25,
+      "shortName": "Duisburg",
+      "website": "http://www.msv-duisburg.de"
+    },
+    {
+      "id": 26,
+      "shortName": "1860 München",
+      "website": "http://www.tsv1860.de"
+    },
+    {
+      "id": 27,
+      "shortName": "Aachen",
+      "website": "http://www.alemannia-aachen.de"
+    },
+    {
+      "id": 28,
+      "shortName": "Union Berlin",
+      "website": "http://www.fc-union-berlin.de"
+    },
+    {
+      "id": 29,
+      "shortName": "SC Paderborn",
+      "website": "http://www.scpaderborn07.de"
+    },
+    {
+      "id": 30,
+      "shortName": "FSV Frankfurt",
+      "website": "http://www.fsv-frankfurt.de"
+    },
+    {
+      "id": 31,
+      "shortName": "Ingolstadt",
+      "website": "http://www.fcingolstadt.de"
+    },
+    {
+      "id": 32,
+      "shortName": "Karlsruhe",
+      "website": "http://www.ksc.de"
+    },
+    {
+      "id": 33,
+      "shortName": "Braunschweig",
+      "website": "http://www.eintracht.com"
+    },
+    {
+      "id": 34,
+      "shortName": "Hansa Rostock",
+      "website": "http://www.fc-hansa.de"
+    },
+    {
+      "id": 35,
+      "shortName": "Dynamo Dresden",
+      "website": "http://www.dynamo-dresden.de"
+    },
+    {
+      "id": 36,
+      "shortName": "Bochum",
+      "website": "http://www.vfl-bochum.de"
+    },
+    {
+      "id": 37,
+      "shortName": "Oberhausen",
+      "website": "http://www.rwo-online.de"
+    },
+    {
+      "id": 38,
+      "shortName": "Bielefeld",
+      "website": "http://www.arminia-bielefeld.de"
+    },
+    {
+      "id": 39,
+      "shortName": "Wehen",
+      "website": "http://www.svwehen-wiesbaden.de"
+    },
+    {
+      "id": 41,
+      "shortName": "Saarbrücken",
+      "website": "http://www.fc-saarbruecken.de"
+    },
+    {
+      "id": 42,
+      "shortName": "Kick. Offenbach",
+      "website": "http://www.ofc.de"
+    },
+    {
+      "id": 43,
+      "shortName": "Regensburg",
+      "website": "http://www.ssv-jahn.de"
+    },
+    {
+      "id": 44,
+      "shortName": "Heidenheim",
+      "website": "http://www.fc-heidenheim.de"
+    },
+    {
+      "id": 45,
+      "shortName": "Stuttgart II",
+      "website": "http://www.vfb.de"
+    },
+    {
+      "id": 46,
+      "shortName": "Sandhausen",
+      "website": "http://www.svsandhausen.de"
+    },
+    {
+      "id": 47,
+      "shortName": "Babelsberg",
+      "website": "http://www.babelsberg03.de"
+    },
+    {
+      "id": 48,
+      "shortName": "Unterhaching",
+      "website": "http://www.spvggunterhaching.de"
+    },
+    {
+      "id": 49,
+      "shortName": "CZ Jena",
+      "website": "https://www.fc-carlzeiss-jena.de"
+    },
+    {
+      "id": 50,
+      "shortName": "Aalen",
+      "website": "http://www.vfr-aalen.de"
+    },
+    {
+      "id": 53,
+      "shortName": "Burghausen",
+      "website": "http://www.wacker1930.de"
+    },
+    {
+      "id": 54,
+      "shortName": "Chemnitzer FC",
+      "website": "http://www.chemnitzerfc.de"
+    },
+    {
+      "id": 55,
+      "shortName": "Darmstadt",
+      "website": "http://www.sv98.de"
+    },
+    {
+      "id": 57,
+      "shortName": "Arsenal",
+      "website": "http://www.arsenal.com"
+    },
+    {
+      "id": 58,
+      "shortName": "Aston Villa",
+      "website": "http://www.avfc.co.uk"
+    },
+    {
+      "id": 59,
+      "shortName": "Blackburn",
+      "website": "http://www.rovers.co.uk"
+    },
+    {
+      "id": 60,
+      "shortName": "Bolton",
+      "website": "http://www.bwfc.co.uk"
+    },
+    {
+      "id": 61,
+      "shortName": "Chelsea",
+      "website": "http://www.chelseafc.com"
+    },
+    {
+      "id": 62,
+      "shortName": "Everton",
+      "website": "http://www.evertonfc.com"
+    },
+    {
+      "id": 63,
+      "shortName": "Fulham",
+      "website": "http://www.fulhamfc.com"
+    },
+    {
+      "id": 64,
+      "shortName": "Liverpool",
+      "website": "http://www.liverpoolfc.tv"
+    },
+    {
+      "id": 65,
+      "shortName": "Man City",
+      "website": "https://www.mancity.com"
+    },
+    {
+      "id": 66,
+      "shortName": "Man United",
+      "website": "http://www.manutd.com"
+    },
+    {
+      "id": 67,
+      "shortName": "Newcastle",
+      "website": "http://www.nufc.co.uk"
+    },
+    {
+      "id": 68,
+      "shortName": "Norwich",
+      "website": "http://www.canaries.co.uk"
+    },
+    {
+      "id": 69,
+      "shortName": "QPR",
+      "website": "http://www.qpr.co.uk"
+    },
+    {
+      "id": 70,
+      "shortName": "Stoke",
+      "website": "http://www.stokecityfc.com"
+    },
+    {
+      "id": 71,
+      "shortName": "Sunderland",
+      "website": "http://www.safc.com"
+    },
+    {
+      "id": 72,
+      "shortName": "Swansea",
+      "website": "http://www.swanseacity.net"
+    },
+    {
+      "id": 73,
+      "shortName": "Tottenham",
+      "website": "http://www.tottenhamhotspur.com"
+    },
+    {
+      "id": 74,
+      "shortName": "West Brom",
+      "website": "http://www.wba.co.uk"
+    },
+    {
+      "id": 75,
+      "shortName": "Wigan Athletic",
+      "website": "http://www.wiganlatics.co.uk"
+    },
+    {
+      "id": 76,
+      "shortName": "Wolverhampton",
+      "website": "http://www.wolves.co.uk"
+    },
+    {
+      "id": 77,
+      "shortName": "Athletic",
+      "website": "http://www.athletic-club.eus"
+    },
+    {
+      "id": 78,
+      "shortName": "Atleti",
+      "website": "http://www.clubatleticodemadrid.com"
+    },
+    {
+      "id": 79,
+      "shortName": "Osasuna",
+      "website": "http://www.osasuna.es"
+    },
+    {
+      "id": 80,
+      "shortName": "Espanyol",
+      "website": "http://www.rcdespanyol.com"
+    },
+    {
+      "id": 81,
+      "shortName": "Barça",
+      "website": "http://www.fcbarcelona.com"
+    },
+    {
+      "id": 82,
+      "shortName": "Getafe",
+      "website": "http://www.getafecf.com"
+    },
+    {
+      "id": 83,
+      "shortName": "Granada",
+      "website": "http://www.granadacf.es"
+    },
+    {
+      "id": 84,
+      "shortName": "Málaga",
+      "website": "http://www.malagacf.es"
+    },
+    {
+      "id": 86,
+      "shortName": "Real Madrid",
+      "website": "http://www.realmadrid.com"
+    },
+    {
+      "id": 87,
+      "shortName": "Rayo Vallecano",
+      "website": "http://www.rayovallecano.es"
+    },
+    {
+      "id": 88,
+      "shortName": "Levante",
+      "website": "http://www.levanteud.com"
+    },
+    {
+      "id": 89,
+      "shortName": "Mallorca",
+      "website": "http://www.rcdmallorca.es"
+    },
+    {
+      "id": 90,
+      "shortName": "Real Betis",
+      "website": "http://www.realbetisbalompie.es"
+    },
+    {
+      "id": 91,
+      "shortName": "Real Zaragoza",
+      "website": "http://www.realzaragoza.com"
+    },
+    {
+      "id": 92,
+      "shortName": "Real Sociedad",
+      "website": "http://www.realsociedad.com"
+    },
+    {
+      "id": 94,
+      "shortName": "Villarreal",
+      "website": "http://www.villarrealcf.es"
+    },
+    {
+      "id": 95,
+      "shortName": "Valencia",
+      "website": "http://www.valenciacf.com"
+    },
+    {
+      "id": 96,
+      "shortName": "Gijón",
+      "website": "http://www.realsporting.com"
+    },
+    {
+      "id": 98,
+      "shortName": "Milan",
+      "website": "http://www.acmilan.com"
+    },
+    {
+      "id": 99,
+      "shortName": "Fiorentina",
+      "website": "http://www.acffiorentina.it"
+    },
+    {
+      "id": 100,
+      "shortName": "Roma",
+      "website": "http://www.asroma.it"
+    },
+    {
+      "id": 101,
+      "shortName": "Siena",
+      "website": "https://robursiena.it/"
+    },
+    {
+      "id": 102,
+      "shortName": "Atalanta",
+      "website": "http://www.atalanta.it"
+    },
+    {
+      "id": 103,
+      "shortName": "Bologna",
+      "website": "http://www.bolognafc.it"
+    },
+    {
+      "id": 104,
+      "shortName": "Cagliari",
+      "website": "http://www.cagliaricalcio.net"
+    },
+    {
+      "id": 105,
+      "shortName": "Catania",
+      "website": "http://www.calciocatania.it"
+    },
+    {
+      "id": 106,
+      "shortName": "Chievo",
+      "website": "http://www.chievoverona.it"
+    },
+    {
+      "id": 107,
+      "shortName": "Genoa",
+      "website": "http://www.genoacfc.it"
+    },
+    {
+      "id": 108,
+      "shortName": "Inter",
+      "website": "http://www.inter.it"
+    },
+    {
+      "id": 109,
+      "shortName": "Juventus",
+      "website": "http://www.juventus.com"
+    },
+    {
+      "id": 110,
+      "shortName": "Lazio",
+      "website": "http://www.sslazio.it"
+    },
+    {
+      "id": 112,
+      "shortName": "Parma",
+      "website": "http://www.parmacalcio1913.com"
+    },
+    {
+      "id": 113,
+      "shortName": "Napoli",
+      "website": "http://www.sscnapoli.it"
+    },
+    {
+      "id": 114,
+      "shortName": "Palermo",
+      "website": "http://www.ilpalermocalcio.it"
+    },
+    {
+      "id": 115,
+      "shortName": "Udinese",
+      "website": "http://www.udinese.it"
+    },
+    {
+      "id": 196,
+      "shortName": "Wattenscheid",
+      "website": "http://www.sgwattenscheid09.de"
+    },
+    {
+      "id": 198,
+      "shortName": "Zwickau",
+      "website": "http://www.fsv-zwickau.de"
+    },
+    {
+      "id": 200,
+      "shortName": "Daco-Getica",
+      "website": null
+    },
+    {
+      "id": 201,
+      "shortName": "Carrick",
+      "website": "http://www.carrickrangers.co.uk"
+    },
+    {
+      "id": 204,
+      "shortName": "Fortuna Köln",
+      "website": "http://www.fortuna-koeln.de"
+    },
+    {
+      "id": 209,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 213,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 215,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 217,
+      "shortName": "Trier",
+      "website": null
+    },
+    {
+      "id": 220,
+      "shortName": "Lübeck",
+      "website": "http://www.vfb-luebeck.de"
+    },
+    {
+      "id": 225,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 235,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 237,
+      "shortName": "Albacete",
+      "website": "http://www.albacetebalompie.es"
+    },
+    {
+      "id": 247,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 250,
+      "shortName": "Valladolid",
+      "website": "http://www.realvalladolid.es"
+    },
+    {
+      "id": 254,
+      "shortName": "CD Tenerife",
+      "website": "http://www.clubdeportivotenerife.es"
+    },
+    {
+      "id": 258,
+      "shortName": "Real Murcia",
+      "website": "http://www.realmurcia.es"
+    },
+    {
+      "id": 260,
+      "shortName": "Numancia",
+      "website": "http://www.cdnumancia.com"
+    },
+    {
+      "id": 263,
+      "shortName": "Alavés",
+      "website": "http://www.alaves.com"
+    },
+    {
+      "id": 264,
+      "shortName": "Cádiz CF",
+      "website": "http://www.cadizcf.com"
+    },
+    {
+      "id": 267,
+      "shortName": "Almería",
+      "website": "http://www.udalmeriasad.com"
+    },
+    {
+      "id": 268,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 269,
+      "shortName": "Hércules",
+      "website": "http://www.herculesdealicantecf.net"
+    },
+    {
+      "id": 270,
+      "shortName": "Mérida",
+      "website": "http://www.admerida.es"
+    },
+    {
+      "id": 272,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 275,
+      "shortName": "Las Palmas",
+      "website": "http://www.udlaspalmas.es"
+    },
+    {
+      "id": 276,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 278,
+      "shortName": "Eibar",
+      "website": "http://www.sdeibar.com"
+    },
+    {
+      "id": 279,
+      "shortName": "Toledo",
+      "website": "http://www.cdtoledo.es"
+    },
+    {
+      "id": 280,
+      "shortName": "Lleida",
+      "website": "http://www.lleidaesportiu.cat"
+    },
+    {
+      "id": 281,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 284,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 285,
+      "shortName": "Elche",
+      "website": "http://www.elchecf.es"
+    },
+    {
+      "id": 286,
+      "shortName": "Ponferradina",
+      "website": "http://www.sdponferradina.com"
+    },
+    {
+      "id": 289,
+      "shortName": "Madrid Castilla",
+      "website": null
+    },
+    {
+      "id": 295,
+      "shortName": "Córdoba",
+      "website": "http://www.cordobacf.com"
+    },
+    {
+      "id": 298,
+      "shortName": "Girona",
+      "website": "http://www.gironafc.cat"
+    },
+    {
+      "id": 299,
+      "shortName": "Huesca",
+      "website": "http://www.sdhuesca.es"
+    },
+    {
+      "id": 300,
+      "shortName": "Cartagena",
+      "website": "http://www.futbolclubcartagena.com"
+    },
+    {
+      "id": 302,
+      "shortName": "Villarreal B",
+      "website": null
+    },
+    {
+      "id": 303,
+      "shortName": "FC Barcelona B",
+      "website": "http://www.fcbarcelona.com"
+    },
+    {
+      "id": 304,
+      "shortName": "AD Alcorcón",
+      "website": "http://www.adalcorcon.com"
+    },
+    {
+      "id": 314,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 322,
+      "shortName": "Hull City",
+      "website": "http://www.hullcitytigers.com"
+    },
+    {
+      "id": 325,
+      "shortName": "Portsmouth",
+      "website": "http://www.portsmouthfc.co.uk"
+    },
+    {
+      "id": 328,
+      "shortName": "Burnley",
+      "website": "http://www.burnleyfootballclub.com"
+    },
+    {
+      "id": 332,
+      "shortName": "Birmingham",
+      "website": "http://www.bcfc.com"
+    },
+    {
+      "id": 336,
+      "shortName": "Blackpool",
+      "website": "http://www.blackpoolfc.co.uk"
+    },
+    {
+      "id": 338,
+      "shortName": "Leicester City",
+      "website": "http://www.lcfc.com"
+    },
+    {
+      "id": 340,
+      "shortName": "Southampton",
+      "website": "http://www.saintsfc.co.uk"
+    },
+    {
+      "id": 341,
+      "shortName": "Leeds United",
+      "website": "http://www.leedsunited.com"
+    },
+    {
+      "id": 342,
+      "shortName": "Derby County",
+      "website": "http://www.dcfc.co.uk"
+    },
+    {
+      "id": 343,
+      "shortName": "Middlesbrough",
+      "website": "http://www.mfc.co.uk"
+    },
+    {
+      "id": 345,
+      "shortName": "Sheffield Wed",
+      "website": "http://www.swfc.co.uk"
+    },
+    {
+      "id": 346,
+      "shortName": "Watford",
+      "website": "http://www.watfordfc.com"
+    },
+    {
+      "id": 347,
+      "shortName": "AFC Wimbledon",
+      "website": "http://www.afcwimbledon.co.uk"
+    },
+    {
+      "id": 348,
+      "shortName": "Charlton",
+      "website": "http://www.cafc.co.uk"
+    },
+    {
+      "id": 349,
+      "shortName": "Ipswich Town",
+      "website": "http://www.itfc.co.uk"
+    },
+    {
+      "id": 351,
+      "shortName": "Nottingham",
+      "website": "http://www.nottinghamforest.co.uk"
+    },
+    {
+      "id": 354,
+      "shortName": "Crystal Palace",
+      "website": "http://www.cpfc.co.uk"
+    },
+    {
+      "id": 355,
+      "shortName": "Reading",
+      "website": "http://www.readingfc.co.uk"
+    },
+    {
+      "id": 356,
+      "shortName": "Sheffield Utd",
+      "website": "http://www.sufc.co.uk"
+    },
+    {
+      "id": 357,
+      "shortName": "Barnsley",
+      "website": "http://www.barnsleyfc.co.uk"
+    },
+    {
+      "id": 361,
+      "shortName": "Rochdale",
+      "website": "http://www.rochdaleafc.co.uk"
+    },
+    {
+      "id": 363,
+      "shortName": "Chesterfield",
+      "website": "http://www.chesterfield-fc.co.uk"
+    },
+    {
+      "id": 365,
+      "shortName": "Colchester Utd",
+      "website": "http://www.cu-fc.com"
+    },
+    {
+      "id": 366,
+      "shortName": "Torquay",
+      "website": "http://www.torquayunited.com"
+    },
+    {
+      "id": 369,
+      "shortName": "Walsall",
+      "website": "http://www.saddlers.co.uk"
+    },
+    {
+      "id": 370,
+      "shortName": "Gillingham",
+      "website": "http://www.gillinghamfootballclub.com"
+    },
+    {
+      "id": 371,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 372,
+      "shortName": "Hereford",
+      "website": "http://www.herefordfc.co.uk"
+    },
+    {
+      "id": 376,
+      "shortName": "Northampton",
+      "website": "http://www.ntfc.co.uk"
+    },
+    {
+      "id": 384,
+      "shortName": "Millwall",
+      "website": "http://www.millwallfc.co.uk"
+    },
+    {
+      "id": 385,
+      "shortName": "Rotherham Utd",
+      "website": "http://www.themillers.co.uk"
+    },
+    {
+      "id": 387,
+      "shortName": "Bristol City",
+      "website": "http://www.bcfc.co.uk"
+    },
+    {
+      "id": 389,
+      "shortName": "Luton Town",
+      "website": "http://www.lutontown.co.uk"
+    },
+    {
+      "id": 391,
+      "shortName": "Notts County",
+      "website": "http://www.nottscountyfc.co.uk"
+    },
+    {
+      "id": 393,
+      "shortName": "Port Vale",
+      "website": "http://www.port-vale.co.uk"
+    },
+    {
+      "id": 394,
+      "shortName": "Huddersfield",
+      "website": "http://www.htafc.com"
+    },
+    {
+      "id": 396,
+      "shortName": "Stockport",
+      "website": "http://www.stockportcounty.com"
+    },
+    {
+      "id": 397,
+      "shortName": "Brighton Hove",
+      "website": "http://www.seagulls.co.uk"
+    },
+    {
+      "id": 399,
+      "shortName": "Leyton Orient",
+      "website": "http://www.leytonorient.com"
+    },
+    {
+      "id": 400,
+      "shortName": "Bristol Rovers",
+      "website": "http://www.bristolrovers.co.uk"
+    },
+    {
+      "id": 402,
+      "shortName": "Brentford",
+      "website": "http://www.brentfordfc.co.uk"
+    },
+    {
+      "id": 404,
+      "shortName": "Wrexham",
+      "website": "http://www.wrexhamafc.co.uk"
+    },
+    {
+      "id": 409,
+      "shortName": "Milton Keynes",
+      "website": "http://www.mkdons.com"
+    },
+    {
+      "id": 411,
+      "shortName": "Cheltenham T",
+      "website": "http://www.ctfc.com"
+    },
+    {
+      "id": 431,
+      "shortName": "Bari",
+      "website": "http://www.fcbari1908.club"
+    },
+    {
+      "id": 436,
+      "shortName": "Livorno",
+      "website": "http://www.livornocalcio.it"
+    },
+    {
+      "id": 445,
+      "shortName": "Empoli",
+      "website": "http://www.empolicalcio.net"
+    },
+    {
+      "id": 446,
+      "shortName": "Ascoli",
+      "website": "http://www.ascolipicchio.com"
+    },
+    {
+      "id": 447,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 448,
+      "shortName": "Treviso",
+      "website": null
+    },
+    {
+      "id": 449,
+      "shortName": "Brescia",
+      "website": "http://www.bresciacalcio.it"
+    },
+    {
+      "id": 450,
+      "shortName": "Verona",
+      "website": "http://www.hellasverona.it"
+    },
+    {
+      "id": 451,
+      "shortName": "Vicenza Virtus",
+      "website": "http://www.lrvicenza.net/"
+    },
+    {
+      "id": 452,
+      "shortName": "Perugia",
+      "website": "http://www.acperugiacalcio.com"
+    },
+    {
+      "id": 453,
+      "shortName": "Piacenza",
+      "website": "http://www.piacenzacalcio.it"
+    },
+    {
+      "id": 454,
+      "shortName": "Venezia FC",
+      "website": "http://www.veneziafc.club"
+    },
+    {
+      "id": 455,
+      "shortName": "Salernitana",
+      "website": "http://www.ussalernitana1919.it"
+    },
+    {
+      "id": 457,
+      "shortName": "Cremonese",
+      "website": "http://www.uscremonese.it"
+    },
+    {
+      "id": 458,
+      "shortName": "Padova",
+      "website": "http://www.padovacalcio.it"
+    },
+    {
+      "id": 460,
+      "shortName": "Modena",
+      "website": "http://www.modenafc.net"
+    },
+    {
+      "id": 461,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 464,
+      "shortName": "AlbinoLeffe",
+      "website": "http://www.albinoleffe.com"
+    },
+    {
+      "id": 465,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 466,
+      "shortName": "Cittadella",
+      "website": "http://www.ascittadella.it"
+    },
+    {
+      "id": 470,
+      "shortName": "Frosinone",
+      "website": "http://www.frosinonecalcio.com"
+    },
+    {
+      "id": 471,
+      "shortName": "Sassuolo",
+      "website": "http://www.sassuolocalcio.it"
+    },
+    {
+      "id": 472,
+      "shortName": "Crotone",
+      "website": "http://www.fccrotone.it"
+    },
+    {
+      "id": 479,
+      "shortName": "Ternana",
+      "website": "http://www.ternanacalcio.com"
+    },
+    {
+      "id": 486,
+      "shortName": "Avellino",
+      "website": "https://www.avellinossd.it/"
+    },
+    {
+      "id": 487,
+      "shortName": "AC Pisa",
+      "website": "http://www.pisachannel.tv"
+    },
+    {
+      "id": 488,
+      "shortName": "Spezia Calcio",
+      "website": "http://www.acspezia.com"
+    },
+    {
+      "id": 489,
+      "shortName": "Arezzo",
+      "website": "http://www.ssarezzo.it/"
+    },
+    {
+      "id": 490,
+      "shortName": "Catanzaro",
+      "website": "http://www.uscatanzaro1929.com"
+    },
+    {
+      "id": 492,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 496,
+      "shortName": "Rio Ave",
+      "website": "http://www.rioave-fc.pt"
+    },
+    {
+      "id": 498,
+      "shortName": "Sporting CP",
+      "website": "http://www.sporting.pt"
+    },
+    {
+      "id": 499,
+      "shortName": "Olhanense",
+      "website": "http://www.scolhanense.com"
+    },
+    {
+      "id": 501,
+      "shortName": "Funchal",
+      "website": null
+    },
+    {
+      "id": 503,
+      "shortName": "Porto",
+      "website": "http://www.fcporto.pt"
+    },
+    {
+      "id": 507,
+      "shortName": "Paços Ferreira",
+      "website": "http://www.fcpf.pt"
+    },
+    {
+      "id": 508,
+      "shortName": "Leiria",
+      "website": "http://www.udl.leirianet.pt"
+    },
+    {
+      "id": 510,
+      "shortName": "AC Ajaccio",
+      "website": "http://www.ac-ajaccio.com"
+    },
+    {
+      "id": 511,
+      "shortName": "Toulouse",
+      "website": "http://www.tfc.info"
+    },
+    {
+      "id": 512,
+      "shortName": "Brest",
+      "website": "http://www.stade-brestois.com"
+    },
+    {
+      "id": 514,
+      "shortName": "SM Caen",
+      "website": "http://www.smcaen.fr"
+    },
+    {
+      "id": 515,
+      "shortName": "Valenciennes",
+      "website": "http://www.va-fc.com"
+    },
+    {
+      "id": 516,
+      "shortName": "Marseille",
+      "website": "http://www.om.net"
+    },
+    {
+      "id": 517,
+      "shortName": "Sochaux",
+      "website": "http://www.fcsochaux.fr"
+    },
+    {
+      "id": 518,
+      "shortName": "Montpellier",
+      "website": "http://www.mhscfoot.com"
+    },
+    {
+      "id": 519,
+      "shortName": "Auxerre",
+      "website": "http://www.aja.fr"
+    },
+    {
+      "id": 520,
+      "shortName": "Nancy",
+      "website": "http://www.asnl.net"
+    },
+    {
+      "id": 521,
+      "shortName": "Lille",
+      "website": "http://www.losc.fr"
+    },
+    {
+      "id": 522,
+      "shortName": "Nice",
+      "website": "http://www.ogcnice.com"
+    },
+    {
+      "id": 523,
+      "shortName": "Olympique Lyon",
+      "website": "http://www.olweb.fr"
+    },
+    {
+      "id": 524,
+      "shortName": "PSG",
+      "website": "http://www.psg.fr"
+    },
+    {
+      "id": 525,
+      "shortName": "Lorient",
+      "website": "http://www.fclweb.fr"
+    },
+    {
+      "id": 526,
+      "shortName": "Bordeaux",
+      "website": "http://www.girondins.com"
+    },
+    {
+      "id": 527,
+      "shortName": "Saint-Étienne",
+      "website": "http://www.asse.fr"
+    },
+    {
+      "id": 528,
+      "shortName": "Dijon FCO",
+      "website": "http://www.dfco.fr"
+    },
+    {
+      "id": 529,
+      "shortName": "Stade Rennais",
+      "website": "http://www.staderennais.com"
+    },
+    {
+      "id": 530,
+      "shortName": "Amiens SC",
+      "website": "http://www.amiensfootball.com"
+    },
+    {
+      "id": 531,
+      "shortName": "Troyes",
+      "website": "http://www.estac.fr"
+    },
+    {
+      "id": 532,
+      "shortName": "Angers SCO",
+      "website": "http://www.angers-sco.fr"
+    },
+    {
+      "id": 533,
+      "shortName": "Le Havre",
+      "website": "http://www.hac-foot.com"
+    },
+    {
+      "id": 534,
+      "shortName": "Arles",
+      "website": null
+    },
+    {
+      "id": 535,
+      "shortName": "Le Mans",
+      "website": "http://www.lemansfc.fr/"
+    },
+    {
+      "id": 536,
+      "shortName": "SC Bastia",
+      "website": "http://www.sc-bastia.net"
+    },
+    {
+      "id": 537,
+      "shortName": "Istres",
+      "website": null
+    },
+    {
+      "id": 538,
+      "shortName": "EA Guingamp",
+      "website": "http://www.eaguingamp.com"
+    },
+    {
+      "id": 539,
+      "shortName": "Châteauroux",
+      "website": "http://www.berrichonne-football.com"
+    },
+    {
+      "id": 540,
+      "shortName": "Stade Laval",
+      "website": "http://www.stade-lavallois.com"
+    },
+    {
+      "id": 541,
+      "shortName": "Clermont Foot",
+      "website": "http://www.clermontfoot.com"
+    },
+    {
+      "id": 543,
+      "shortName": "Nantes",
+      "website": "http://www.fcnantes.com"
+    },
+    {
+      "id": 544,
+      "shortName": "Tours FC",
+      "website": "http://www.toursfc.fr"
+    },
+    {
+      "id": 545,
+      "shortName": "FC Metz",
+      "website": "http://www.fcmetz.com"
+    },
+    {
+      "id": 546,
+      "shortName": "RC Lens",
+      "website": "http://www.rclens.fr"
+    },
+    {
+      "id": 547,
+      "shortName": "Stade de Reims",
+      "website": "http://www.stade-de-reims.com"
+    },
+    {
+      "id": 548,
+      "shortName": "Monaco",
+      "website": "http://www.asmonaco.com"
+    },
+    {
+      "id": 550,
+      "shortName": "Alcoyano",
+      "website": "http://www.cdalcoyano.com"
+    },
+    {
+      "id": 551,
+      "shortName": "Guadalajara",
+      "website": null
+    },
+    {
+      "id": 553,
+      "shortName": "Dortmund II",
+      "website": "http://www.bvb.de"
+    },
+    {
+      "id": 554,
+      "shortName": "Hallescher FC",
+      "website": "http://www.hallescherfc.de"
+    },
+    {
+      "id": 555,
+      "shortName": "GFC Ajaccio",
+      "website": "http://www.gfca-foot.com"
+    },
+    {
+      "id": 556,
+      "shortName": "Nîmes Ol.",
+      "website": "http://www.nimes-olympique.com"
+    },
+    {
+      "id": 557,
+      "shortName": "Niort",
+      "website": "http://www.chamoisniortais.fr"
+    },
+    {
+      "id": 558,
+      "shortName": "Celta",
+      "website": "http://www.celtavigo.net"
+    },
+    {
+      "id": 559,
+      "shortName": "Sevilla FC",
+      "website": "http://www.sevillafc.es"
+    },
+    {
+      "id": 560,
+      "shortName": "Deportivo",
+      "website": "http://www.rcdeportivo.es"
+    },
+    {
+      "id": 563,
+      "shortName": "West Ham",
+      "website": "http://www.whufc.com"
+    },
+    {
+      "id": 565,
+      "shortName": "Gueugnon",
+      "website": "http://www.fcgueugnon.fr"
+    },
+    {
+      "id": 567,
+      "shortName": "Red Star",
+      "website": "http://www.redstar.fr"
+    },
+    {
+      "id": 569,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 573,
+      "shortName": "Créteil",
+      "website": "http://www.uscl.fr"
+    },
+    {
+      "id": 576,
+      "shortName": "Strasbourg",
+      "website": "http://www.rcstrasbourgalsace.fr"
+    },
+    {
+      "id": 577,
+      "shortName": "Martigues",
+      "website": "http://www.fcmartigues.fr"
+    },
+    {
+      "id": 582,
+      "shortName": "Estoril Praia",
+      "website": "http://www.estorilpraia.pt"
+    },
+    {
+      "id": 583,
+      "shortName": "Moreirense",
+      "website": "http://www.moreirensefc.pt"
+    },
+    {
+      "id": 584,
+      "shortName": "Sampdoria",
+      "website": "http://www.sampdoria.it"
+    },
+    {
+      "id": 585,
+      "shortName": "Pescara",
+      "website": "http://www.pescaracalcio.com"
+    },
+    {
+      "id": 586,
+      "shortName": "Torino",
+      "website": "http://www.torinofc.it"
+    },
+    {
+      "id": 587,
+      "shortName": "Novara",
+      "website": "http://www.novaracalcio.com"
+    },
+    {
+      "id": 588,
+      "shortName": "Juve Stabia",
+      "website": "http://www.ssjuvestabia.it"
+    },
+    {
+      "id": 589,
+      "shortName": "Lanciano",
+      "website": null
+    },
+    {
+      "id": 590,
+      "shortName": "Pro Vercelli",
+      "website": "http://www.fcprovercelli.it"
+    },
+    {
+      "id": 591,
+      "shortName": "Cesena",
+      "website": "https://calciocesena.com/"
+    },
+    {
+      "id": 593,
+      "shortName": "Gubbio",
+      "website": "http://www.asgubbio1910.net"
+    },
+    {
+      "id": 594,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 595,
+      "shortName": "CD Mirandés",
+      "website": "http://www.cdmirandes.com"
+    },
+    {
+      "id": 596,
+      "shortName": "Lugo",
+      "website": "http://www.cdlugo.com"
+    },
+    {
+      "id": 598,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 599,
+      "shortName": "Eskişehirspor",
+      "website": "http://www.eskisehirspor.org"
+    },
+    {
+      "id": 600,
+      "shortName": "Beşiktaş",
+      "website": "http://www.bjk.com.tr"
+    },
+    {
+      "id": 601,
+      "shortName": "Manisaspor",
+      "website": "http://www.manisaspor.org.tr"
+    },
+    {
+      "id": 602,
+      "shortName": "Trabzonspor",
+      "website": "http://www.trabzonspor.org.tr"
+    },
+    {
+      "id": 603,
+      "shortName": "Samsunspor",
+      "website": "http://www.samsunspor.org.tr"
+    },
+    {
+      "id": 604,
+      "shortName": "Gençlerbirliği",
+      "website": "http://www.genclerbirligi.org.tr"
+    },
+    {
+      "id": 605,
+      "shortName": "Antalyaspor",
+      "website": "http://www.antalyaspor.com.tr"
+    },
+    {
+      "id": 606,
+      "shortName": "Gaziantepspor",
+      "website": "http://www.gaziantepspor.org.tr"
+    },
+    {
+      "id": 607,
+      "shortName": "Bursaspor",
+      "website": "http://www.bursaspor.org.tr"
+    },
+    {
+      "id": 608,
+      "shortName": "Kayserispor",
+      "website": "http://www.kayserispor.org.tr"
+    },
+    {
+      "id": 609,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 610,
+      "shortName": "Galatasaray",
+      "website": "http://www.galatasaray.org"
+    },
+    {
+      "id": 611,
+      "shortName": "Qarabağ Ağdam",
+      "website": "http://www.qarabagh.com"
+    },
+    {
+      "id": 612,
+      "shortName": "Sivasspor",
+      "website": "http://www.sivasspor.org.tr"
+    },
+    {
+      "id": 613,
+      "shortName": "Fenerbahçe",
+      "website": "http://www.fenerbahce.org"
+    },
+    {
+      "id": 614,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 615,
+      "shortName": "Pandurii",
+      "website": "http://www.pandurii-tg-jiu.ro"
+    },
+    {
+      "id": 642,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 643,
+      "shortName": "PAS Giannina",
+      "website": "http://www.fcpasgiannina.gr"
+    },
+    {
+      "id": 644,
+      "shortName": "Thessaloniki",
+      "website": null
+    },
+    {
+      "id": 646,
+      "shortName": "Panathinaikos",
+      "website": "http://www.pao.gr"
+    },
+    {
+      "id": 647,
+      "shortName": "Panionios",
+      "website": "http://www.panionios.gr"
+    },
+    {
+      "id": 648,
+      "shortName": "Ergotelis",
+      "website": "http://www.ergotelis.gr"
+    },
+    {
+      "id": 649,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 654,
+      "shortName": "Olympiakos",
+      "website": "http://www.olympiacos.org"
+    },
+    {
+      "id": 655,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 657,
+      "shortName": "Lárisa",
+      "website": "http://www.e-ael.gr"
+    },
+    {
+      "id": 662,
+      "shortName": "Platanias",
+      "website": "http://www.fcplatanias.gr"
+    },
+    {
+      "id": 664,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 665,
+      "shortName": "Roda JC",
+      "website": "https://www.rodajckerkrade.nl/"
+    },
+    {
+      "id": 666,
+      "shortName": "Twente",
+      "website": "http://www.fctwente.nl"
+    },
+    {
+      "id": 668,
+      "shortName": "Venlo",
+      "website": "http://www.vvv-venlo.nl"
+    },
+    {
+      "id": 670,
+      "shortName": "Excelsior",
+      "website": "http://www.sbvexcelsior.nl"
+    },
+    {
+      "id": 671,
+      "shortName": "Heracles",
+      "website": "http://www.heracles.nl"
+    },
+    {
+      "id": 672,
+      "shortName": "Willem II",
+      "website": "http://www.willem-II.nl"
+    },
+    {
+      "id": 673,
+      "shortName": "Heerenveen",
+      "website": "http://www.sc-heerenveen.nl"
+    },
+    {
+      "id": 674,
+      "shortName": "PSV",
+      "website": "http://www.psv.nl"
+    },
+    {
+      "id": 675,
+      "shortName": "Feyenoord",
+      "website": "http://www.feyenoord.nl"
+    },
+    {
+      "id": 676,
+      "shortName": "Utrecht",
+      "website": "http://www.fc-utrecht.nl"
+    },
+    {
+      "id": 677,
+      "shortName": "Groningen",
+      "website": "http://www.fcgroningen.nl"
+    },
+    {
+      "id": 678,
+      "shortName": "Ajax",
+      "website": "http://www.ajax.nl"
+    },
+    {
+      "id": 679,
+      "shortName": "Vitesse",
+      "website": "http://www.vitesse.nl"
+    },
+    {
+      "id": 680,
+      "shortName": "Den Haag",
+      "website": "http://www.adodenhaag.nl"
+    },
+    {
+      "id": 681,
+      "shortName": "NAC",
+      "website": "http://www.nac.nl"
+    },
+    {
+      "id": 682,
+      "shortName": "AZ",
+      "website": "http://www.az.nl"
+    },
+    {
+      "id": 683,
+      "shortName": "RKC",
+      "website": "http://www.rkcwaalwijk.nl"
+    },
+    {
+      "id": 684,
+      "shortName": "Zwolle",
+      "website": "http://www.peczwolle.nl"
+    },
+    {
+      "id": 689,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 691,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 692,
+      "shortName": "Mioveni",
+      "website": "http://www.csmioveni.ro"
+    },
+    {
+      "id": 694,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 696,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 698,
+      "shortName": "Astra Giurgiu",
+      "website": "http://www.afcastra.ro"
+    },
+    {
+      "id": 699,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 701,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 702,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 704,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 705,
+      "shortName": "CSS Drobeta",
+      "website": null
+    },
+    {
+      "id": 706,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 707,
+      "shortName": "",
+      "website": null
+    },
+    {
+      "id": 708,
+      "shortName": "Farul",
+      "website": "http://www.fcviitorul.ro"
+    },
+    {
+      "id": 709,
+      "shortName": "Jaén",
+      "website": null
+    },
+    {
+      "id": 712,
+      "shortName": "Arouca",
+      "website": "http://www.fcarouca.eu"
+    },
+    {
+      "id": 713,
+      "shortName": "Carpi FC",
+      "website": "http://www.carpifc1909.it"
+    },
+    {
+      "id": 715,
+      "shortName": "Cardiff",
+      "website": "http://www.cardiffcityfc.co.uk"
+    },
+    {
+      "id": 718,
+      "shortName": "Go Ahead",
+      "website": "http://www.ga-eagles.nl"
+    },
+    {
+      "id": 719,
+      "shortName": "Elversberg",
+      "website": "http://www.sv07elversberg.de"
+    },
+    {
+      "id": 720,
+      "shortName": "Holstein Kiel",
+      "website": "http://www.holstein-kiel.de"
+    },
+    {
+      "id": 721,
+      "shortName": "RB Leipzig",
+      "website": "http://www.dierotenbullen.com"
+    },
+    {
+      "id": 722,
+      "shortName": "Latina",
+      "website": null
+    },
+    {
+      "id": 723,
+      "shortName": "Trapani",
+      "website": "http://www.trapanicalcio.it"
+    },
+    {
+      "id": 726,
+      "shortName": "Anderlecht",
+      "website": "http://www.rsca.be"
+    },
+    {
+      "id": 729,
+      "shortName": "Basel",
+      "website": "http://www.fcb.ch"
+    },
+    {
+      "id": 731,
+      "shortName": "Zenit",
+      "website": "http://www.fc-zenit.ru"
+    },
+    {
+      "id": 732,
+      "shortName": "Celtic",
+      "website": "http://www.celticfc.co.uk"
+    },
+    {
+      "id": 734,
+      "shortName": "Maribor",
+      "website": "http://www.nkmaribor.com"
+    },
+    {
+      "id": 740,
+      "shortName": "Mainz 05 II",
+      "website": "http://www.mainz05.de"
+    },
+    {
+      "id": 741,
+      "shortName": "Großaspach",
+      "website": "http://www.sg94.de"
+    },
+    {
+      "id": 742,
+      "shortName": "Orléans",
+      "website": "http://www.usofoot.com"
+    },
+    {
+      "id": 745,
+      "shortName": "Leganés",
+      "website": "http://www.deportivoleganes.com"
+    },
+    {
+      "id": 747,
+      "shortName": "Virtus Entella",
+      "website": "http://www.entella.it"
+    },
+    {
+      "id": 748,
+      "shortName": "BATE",
+      "website": "http://www.fcbate.by"
+    },
+    {
+      "id": 749,
+      "shortName": "Malmö FF",
+      "website": "http://www.mff.se"
+    },
+    {
+      "id": 752,
+      "shortName": "APOEL",
+      "website": "http://www.apoelfc.com.cy"
+    },
+    {
+      "id": 754,
+      "shortName": "Spartak Moskva",
+      "website": "http://www.spartak.com"
+    },
+    {
+      "id": 755,
+      "shortName": "Dinamo Zagreb",
+      "website": "http://gnkdinamo.hr"
+    },
+    {
+      "id": 756,
+      "shortName": "Netherlands",
+      "website": "http://www.knvb.nl"
+    },
+    {
+      "id": 757,
+      "shortName": null,
+      "website": "http://www.ksklternat.be"
+    },
+    {
+      "id": 758,
+      "shortName": "Uruguay",
+      "website": "http://www.auf.org.uy"
+    },
+    {
+      "id": 759,
+      "shortName": "Germany",
+      "website": "http://www.dfb.de"
+    },
+    {
+      "id": 760,
+      "shortName": "Spain",
+      "website": "http://www.rfef.es"
+    },
+    {
+      "id": 761,
+      "shortName": "Paraguay",
+      "website": "http://www.apf.org.py"
+    },
+    {
+      "id": 762,
+      "shortName": "Argentina",
+      "website": "http://www.afa.org.ar"
+    },
+    {
+      "id": 763,
+      "shortName": "Ghana",
+      "website": "http://www.ghanafa.org"
+    },
+    {
+      "id": 764,
+      "shortName": "Brazil",
+      "website": "http://www.cbf.com.br/"
+    },
+    {
+      "id": 765,
+      "shortName": "Portugal",
+      "website": "http://www.fpf.pt"
+    },
+    {
+      "id": 766,
+      "shortName": "Japan",
+      "website": "http://www.jfa.or.jp"
+    },
+    {
+      "id": 767,
+      "shortName": "Chile",
+      "website": "http://www.anfp.cl"
+    },
+    {
+      "id": 768,
+      "shortName": "Slovakia",
+      "website": "http://www.futbalsfz.sk"
+    },
+    {
+      "id": 769,
+      "shortName": "Mexico",
+      "website": "http://www.femexfut.org.mx"
+    },
+    {
+      "id": 770,
+      "shortName": "England",
+      "website": "http://www.thefa.com"
+    },
+    {
+      "id": 771,
+      "shortName": "USA",
+      "website": "http://www.ussoccer.com"
+    },
+    {
+      "id": 772,
+      "shortName": "Korea Republic",
+      "website": "http://www.kfa.or.kr"
+    },
+    {
+      "id": 773,
+      "shortName": "France",
+      "website": "http://www.fff.fr"
+    },
+    {
+      "id": 774,
+      "shortName": "South Africa",
+      "website": "http://www.safa.net"
+    },
+    {
+      "id": 775,
+      "shortName": "Greece",
+      "website": "http://www.epo.gr"
+    },
+    {
+      "id": 776,
+      "shortName": "Nigeria",
+      "website": "http://www.thenff.com"
+    },
+    {
+      "id": 777,
+      "shortName": "Slovenia",
+      "website": "http://www.nzs.si"
+    },
+    {
+      "id": 778,
+      "shortName": "Algeria",
+      "website": "http://www.faf.dz"
+    },
+    {
+      "id": 779,
+      "shortName": "Australia",
+      "website": "http://www.footballaustralia.com.au"
+    },
+    {
+      "id": 780,
+      "shortName": "Serbia",
+      "website": "http://www.fss.rs"
+    },
+    {
+      "id": 781,
+      "shortName": "Cameroon",
+      "website": "http://www.fecafoot-officiel.com"
+    },
+    {
+      "id": 782,
+      "shortName": "Denmark",
+      "website": "http://www.dbu.dk"
+    },
+    {
+      "id": 783,
+      "shortName": "New Zealand",
+      "website": "http://www.nzfootball.co.nz"
+    },
+    {
+      "id": 784,
+      "shortName": "Italy",
+      "website": "http://www.figc.it"
+    },
+    {
+      "id": 788,
+      "shortName": "Switzerland",
+      "website": "http://www.football.ch"
+    },
+    {
+      "id": 789,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 790,
+      "shortName": "Ukraine",
+      "website": "http://www.ffu.org.ua"
+    },
+    {
+      "id": 791,
+      "shortName": "Ecuador",
+      "website": "http://www.ecuafutbol.org"
+    },
+    {
+      "id": 792,
+      "shortName": "Sweden",
+      "website": "http://www.svenskfotboll.se"
+    },
+    {
+      "id": 793,
+      "shortName": "Costa Rica",
+      "website": "http://www.fedefutbol.com"
+    },
+    {
+      "id": 794,
+      "shortName": "Poland",
+      "website": "http://www.pzpn.pl"
+    },
+    {
+      "id": 795,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 796,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 797,
+      "shortName": "Angola",
+      "website": "http://www.faf.co.ao"
+    },
+    {
+      "id": 798,
+      "shortName": "Czech Republic",
+      "website": "http://www.fotbal.cz"
+    },
+    {
+      "id": 799,
+      "shortName": "Croatia",
+      "website": "http://www.hns-cff.hr"
+    },
+    {
+      "id": 800,
+      "shortName": "Togo",
+      "website": "http://www.ftftogo.com"
+    },
+    {
+      "id": 801,
+      "shortName": "Saudi Arabia",
+      "website": "http://www.thesaff.com.sa"
+    },
+    {
+      "id": 802,
+      "shortName": "Tunisia",
+      "website": "http://www.ftf.org.tn"
+    },
+    {
+      "id": 803,
+      "shortName": "Turkey",
+      "website": "http://www.tff.org"
+    },
+    {
+      "id": 804,
+      "shortName": "Senegal",
+      "website": "http://www.fsfoot.sn"
+    },
+    {
+      "id": 805,
+      "shortName": "Belgium",
+      "website": "https://www.rbfa.be"
+    },
+    {
+      "id": 806,
+      "shortName": "Ireland",
+      "website": "http://www.fai.ie"
+    },
+    {
+      "id": 808,
+      "shortName": "Russia",
+      "website": "http://www.rfs.ru"
+    },
+    {
+      "id": 809,
+      "shortName": "Penafiel",
+      "website": "http://www.fcpenafiel.pt"
+    },
+    {
+      "id": 810,
+      "shortName": "Boavista",
+      "website": "http://www.boavistafc.pt"
+    },
+    {
+      "id": 811,
+      "shortName": "Romania",
+      "website": "http://www.frf.ro"
+    },
+    {
+      "id": 812,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 813,
+      "shortName": "Norway",
+      "website": "http://www.fotball.no"
+    },
+    {
+      "id": 814,
+      "shortName": "Scotland",
+      "website": "http://www.scottishfa.co.uk"
+    },
+    {
+      "id": 815,
+      "shortName": "Morocco",
+      "website": "http://www.frmf.ma"
+    },
+    {
+      "id": 816,
+      "shortName": "Austria",
+      "website": "http://www.oefb.at"
+    },
+    {
+      "id": 817,
+      "shortName": "Bulgaria",
+      "website": "http://www.bfunion.bg"
+    },
+    {
+      "id": 818,
+      "shortName": "Colombia",
+      "website": "http://www.fcf.com.co"
+    },
+    {
+      "id": 819,
+      "shortName": "Jamaica",
+      "website": "http://www.jamaicafootballfederation.com"
+    },
+    {
+      "id": 820,
+      "shortName": "Bolivia",
+      "website": "http://www.fbf.com.bo"
+    },
+    {
+      "id": 821,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 822,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 823,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 825,
+      "shortName": "Egypt",
+      "website": "http://www.efa.com.eg"
+    },
+    {
+      "id": 827,
+      "shortName": "Hungary",
+      "website": "http://www.mlsz.hu"
+    },
+    {
+      "id": 828,
+      "shortName": "Canada",
+      "website": null
+    },
+    {
+      "id": 829,
+      "shortName": "North. Ireland",
+      "website": "http://www.irishfa.com"
+    },
+    {
+      "id": 830,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 832,
+      "shortName": "Peru",
+      "website": "http://www.fpf.org.pe"
+    },
+    {
+      "id": 833,
+      "shortName": "Wales",
+      "website": "http://www.faw.org.uk"
+    },
+    {
+      "id": 834,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 835,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 836,
+      "shortName": "Haiti",
+      "website": "http://fhfhaiti.com"
+    },
+    {
+      "id": 838,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 839,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 840,
+      "shortName": "Iran",
+      "website": "http://www.ffiri.ir"
+    },
+    {
+      "id": 842,
+      "shortName": "Dynamo Kyiv",
+      "website": "http://www.fcdynamo.kiev.ua"
+    },
+    {
+      "id": 850,
+      "shortName": "Partizan",
+      "website": "http://www.partizan.rs"
+    },
+    {
+      "id": 851,
+      "shortName": "Club Brugge",
+      "website": "http://www.clubbrugge.be"
+    },
+    {
+      "id": 864,
+      "shortName": null,
+      "website": null
+    },
+    {
+      "id": 882,
+      "shortName": "Rubin Kazan",
+      "website": "http://www.rubin-kazan.ru"
+    },
+    {
+      "id": 884,
+      "shortName": "Maccabi Haifa",
+      "website": "http://mhaifafc.com"
+    },
+    {
+      "id": 889,
+      "shortName": "Rosenborg",
+      "website": "http://www.rbk.no"
+    },
+    {
+      "id": 907,
+      "shortName": "Sparta Praha",
+      "website": "http://www.sparta.cz"
+    },
+    {
+      "id": 928,
+      "shortName": "Levski Sofia",
+      "website": "https://www.levski.bg/"
+    },
+    {
+      "id": 930,
+      "shortName": "Slavia Praha",
+      "website": "http://www.slavia.cz"
+    },
+    {
+      "id": 946,
+      "shortName": "Aalborg",
+      "website": "http://www.aabsport.dk"
+    },
+    {
+      "id": 1001,
+      "shortName": "Široki Brijeg",
+      "website": "http://www.nk-sirokibrijeg.com"
+    },
+    {
+      "id": 1003,
+      "shortName": "Thun",
+      "website": "http://www.fcthun.ch"
+    },
+    {
+      "id": 1042,
+      "shortName": "Bourg Péronnas",
+      "website": "http://www.fcbourgperonnas.fr"
+    },
+    {
+      "id": 1044,
+      "shortName": "Bournemouth",
+      "website": "http://www.afcb.co.uk"
+    },
+    {
+      "id": 1045,
+      "shortName": "Paris FC",
+      "website": "http://www.parisfootballclub.com"
+    },
+    {
+      "id": 1048,
+      "shortName": "Real Oviedo",
+      "website": "http://www.realoviedo.es"
+    },
+    {
+      "id": 1049,
+      "shortName": "Tondela",
+      "website": "http://www.cdtondela.pt"
+    },
+    {
+      "id": 1052,
+      "shortName": "União Madeira",
+      "website": "http://www.uniaodamadeira.com"
+    },
+    {
+      "id": 1054,
+      "shortName": "Magdeburg",
+      "website": "http://www.1fcm.de"
+    },
+    {
+      "id": 1055,
+      "shortName": "Würzburg",
+      "website": "http://www.wuerzburger-kickers.de"
+    },
+    {
+      "id": 1057,
+      "shortName": "KAA Gent",
+      "website": "http://www.kaagent.be"
+    },
+    {
+      "id": 1060,
+      "shortName": "Bosnia-H.",
+      "website": "http://www.nfsbih.ba"
+    },
+    {
+      "id": 1061,
+      "shortName": "Israel",
+      "website": "http://www.football.org.il"
+    },
+    {
+      "id": 1062,
+      "shortName": "Latvia",
+      "website": "http://www.lff.lv"
+    },
+    {
+      "id": 1065,
+      "shortName": "Albania",
+      "website": "http://www.fshf.org"
+    },
+    {
+      "id": 1066,
+      "shortName": "Iceland",
+      "website": "http://www.ksi.is"
+    },
+    {
+      "id": 1067,
+      "shortName": "Bradford City",
+      "website": "http://www.bradfordcityfc.co.uk"
+    },
+    {
+      "id": 1068,
+      "shortName": "Bury",
+      "website": "http://www.buryfc.co.uk"
+    },
+    {
+      "id": 1069,
+      "shortName": "Southend Utd",
+      "website": "http://www.southendunited.co.uk"
+    },
+    {
+      "id": 1071,
+      "shortName": "Doncaster",
+      "website": "http://www.doncasterroversfc.co.uk"
+    },
+    {
+      "id": 1072,
+      "shortName": "Burton Albion",
+      "website": "http://www.burtonalbionfc.co.uk"
+    },
+    {
+      "id": 1073,
+      "shortName": "Fleetwood Town",
+      "website": "http://www.fleetwoodtownfc.com"
+    }
+  ]
+}

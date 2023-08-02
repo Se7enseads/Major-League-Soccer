@@ -1,42 +1,39 @@
 import { useEffect, useState } from 'react'
 import LeagueTable from './components/LeagueTable'
 
-/* const apiKey = '94003c7cd7ab4e72a18b70da54a0a891'; // Replace with your actual API key
-const apiUrl = 'http://api.football-data.org/v4/competitions/PL/standings';
-const corsProxyUrl = 'https://cors-anywhere.herokuapp.com/';
+const useStandingsData = (tableUrl, compUrl) => {
+  const [standings, setStandings] = useState([])
+  const [league, setLeague] = useState('')
 
-const headers = {
-  'X-Auth-Token': apiKey,
-}; */
+  useEffect(() => {
+    fetch(compUrl)
+      .then(response => response.json())
+      .then(data => {
+        setLeague(data)
+      })
+  }, [compUrl])
+
+  useEffect(() => {
+    fetch(tableUrl)
+      .then(response => response.json())
+      .then(data => {
+        setStandings(data[0].table)
+      })
+  }, [tableUrl])
+
+  return { standings, league }
+}
 
 const TABLE_URL = 'http://localhost:3000/standings'
 const COMP_URL = 'http://localhost:3000/competition'
 
 const App = () => {
-  const [standings, setStandings] = useState([])
-  const [league, setLeague] = useState([])
-
-  useEffect(() => {
-    fetch(COMP_URL)
-      .then(response => response.json())
-      .then(data => {
-        setLeague(data.name)
-      })
-  }, [])
-
-  useEffect(() => {
-    // fetch(corsProxyUrl + apiUrl, { headers })
-    fetch(TABLE_URL)
-      .then(response => response.json())
-      .then(data => {
-        // setStandings(data.standings[0].table)
-        setStandings(data[0].table)
-      })
-  }, [])
+  const { standings, league } = useStandingsData(TABLE_URL, COMP_URL)
   return (
     <div>
       <LeagueTable standings={standings} league={league} />
     </div>
   )
 }
+
 export default App

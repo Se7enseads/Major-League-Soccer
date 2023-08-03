@@ -3,7 +3,6 @@ import { Route, Routes, Navigate } from 'react-router-dom'
 import LeagueTable from './components/LeagueTable'
 import Home from './components/Home'
 import Leagues from './components/Leagues'
-import NavBar from './components/NavBar'
 
 const App = () => {
   const [standings, setStandings] = useState([])
@@ -31,7 +30,6 @@ const App = () => {
 
   return (
     <div>
-      <NavBar />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route

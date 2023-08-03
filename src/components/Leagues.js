@@ -1,5 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
+import NavBar from './NavBar'
 
 const leagues = [
   {
@@ -29,11 +30,12 @@ const containerStyle = {
 const Leagues = ({ handleLeagueClick }) => {
   const navigate = useNavigate()
   return (
-    <div style={containerStyle} className='container-fluid'>
+    <div style={containerStyle} className='container-fluid pt-2'>
+      <NavBar />
       <div className='container-fluid'>
-        <h1 className='text-center'>LEAGUES PAGE</h1>
+        <h1 className='text-center'>LEAGUES PAGE (2022/23)</h1>
         <div className='d-flex justify-content-center align-items-center'>
-          <div className='mx-auto'>
+          <div className='mx-auto col-5'>
             {leagues.map(league => (
               <button
                 key={league.id}
@@ -50,7 +52,7 @@ const Leagues = ({ handleLeagueClick }) => {
                 />
                 <h2 className='text-dark'>
                   {league.name}
-                  {'  '}(22/23)
+                  {'  '}
                 </h2>
               </button>
             ))}

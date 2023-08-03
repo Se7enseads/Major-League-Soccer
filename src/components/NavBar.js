@@ -1,16 +1,19 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+import logo from '../assets/logo.png'
 
-function NavBar () {
+const NavBar = () => {
   return (
-    <nav className='navbar'>
-      <ul className='nav-links'>
-        <li>
-          <a href='/'>Home</a>
-        </li>
-        <li>
-          <a href='/leagues'>Leagues</a>
-        </li>
-      </ul>
+    <nav className='navbar navbar-expand-lg shadow-lg px-3 mx-3'>
+      <div className='container'>
+        <Link className='navbar-brand' to='/'>
+          <img src={logo} alt='Logo' height={'25px'} />{' '}
+          <span className='fw-bold'>MLS</span>
+        </Link>
+        <Link className='nav-link' to='/leagues'>
+          <h4>Leagues</h4>
+        </Link>
+      </div>
     </nav>
   )
 }

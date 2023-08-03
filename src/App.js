@@ -1,37 +1,49 @@
 import { useEffect, useState } from 'react'
+import { Route, Routes, Navigate } from 'react-router-dom'
 import LeagueTable from './components/LeagueTable'
+import Home from './components/Home'
+import Leagues from './components/Leagues'
 
 const App = () => {
-  // State to store the standings data.
   const [standings, setStandings] = useState([])
+  const [selectedLeagueId, setSelectedLeagueId] = useState(1)
 
-  // useEffect hook to fetch data when the component mounts.
   useEffect(() => {
-    // Fetch data from the API.
-    fetch('http://localhost:3000/leagues/1')
+    fetch(`http://localhost:3000/leagues/${selectedLeagueId}`)
       .then(response => {
-        // Check if the response is not okay and throw an error if necessary.
         if (!response.ok) {
           throw new Error('Network response was not ok')
         }
-        // Parse the response as JSON and return the result.
         return response.json()
       })
       .then(data => {
-        // Set the fetched data into the standings state.
         setStandings(data)
       })
       .catch(error => {
-        // Handle any errors that occurred during the fetch or processing.
         console.error('Error:', error)
       })
-  }, []) // The empty dependency array ensures this effect runs only once when the component mounts.
+  }, [selectedLeagueId])
 
-  // Render the component.
+  const handleLeagueClick = leagueId => {
+    setSelectedLeagueId(leagueId)
+  }
+
   return (
     <div>
-      {/* Pass the standings data as a prop to the LeagueTable component. */}
-      <LeagueTable standings={standings} />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route
+          path='/leagues'
+          element={
+            <Leagues
+              leagues={standings}
+              handleLeagueClick={handleLeagueClick}
+            />
+          }
+        />
+        <Route path='/table' element={<LeagueTable standings={standings} />} />
+        <Route path='/leagues/*' element={<Navigate to='/leagues' />} />
+      </Routes>
     </div>
   )
 }

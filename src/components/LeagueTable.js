@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 // Styles for different results
 const styles = {
@@ -9,18 +9,18 @@ const styles = {
 
 // Function to get the appropriate style based on result
 function getStyle(result) {
-  return styles[result] || {};
+  return styles[result] || {}
 }
 
 // LeagueTable component
 const LeagueTable = ({ standings }) => {
   // Conditional check for undefined standings or standings.table
   if (!standings || !standings.table) {
-    return <p>Loading...</p>;
+    return <p>Loading...</p>
   }
 
   // Log the standings table data
-  console.log(standings.table);
+  console.log(standings.table)
 
   return (
     <div className='table-responsive mb-3'>
@@ -69,7 +69,14 @@ const LeagueTable = ({ standings }) => {
                   width={'30px'}
                   style={{ marginRight: '10px' }}
                 />
-                {standing.team.shortName}{' '}
+                <a
+                  className='link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover text-dark'
+                  href={standing.team.website} // Replace with the actual team's website URL
+                  target='_blank'
+                  rel='noreferrer' // Open the link in a new tab
+                >
+                  {standing.team.shortName}
+                </a>{' '}
                 {standing.position === 1 ? '🏆' : null}
               </td>
               <td className='px-2'>{standing.playedGames}</td>
@@ -92,7 +99,7 @@ const LeagueTable = ({ standings }) => {
         </tbody>
       </table>
     </div>
-  );
+  )
 }
 
-export default LeagueTable;
+export default LeagueTable

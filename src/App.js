@@ -1,31 +1,31 @@
-import { useEffect, useState } from 'react';
-import LeagueTable from './components/LeagueTable';
+import { useEffect, useState } from 'react'
+import LeagueTable from './components/LeagueTable'
 
 const App = () => {
   // State to store the standings data.
-  const [standings, setStandings] = useState([]);
+  const [standings, setStandings] = useState([])
 
   // useEffect hook to fetch data when the component mounts.
   useEffect(() => {
     // Fetch data from the API.
-    fetch("http://localhost:3000/leagues/2")
+    fetch('http://localhost:3000/leagues/3')
       .then(response => {
         // Check if the response is not okay and throw an error if necessary.
         if (!response.ok) {
-          throw new Error("Network response was not ok");
+          throw new Error('Network response was not ok')
         }
         // Parse the response as JSON and return the result.
-        return response.json();
+        return response.json()
       })
       .then(data => {
         // Set the fetched data into the standings state.
-        setStandings(data);
+        setStandings(data)
       })
       .catch(error => {
         // Handle any errors that occurred during the fetch or processing.
-        console.error("Error:", error);
-      });
-  }, []); // The empty dependency array ensures this effect runs only once when the component mounts.
+        console.error('Error:', error)
+      })
+  }, []) // The empty dependency array ensures this effect runs only once when the component mounts.
 
   // Render the component.
   return (
@@ -33,7 +33,7 @@ const App = () => {
       {/* Pass the standings data as a prop to the LeagueTable component. */}
       <LeagueTable standings={standings} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

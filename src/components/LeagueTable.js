@@ -1,21 +1,25 @@
+import React from 'react';
+
+// Styles for different results
 const styles = {
   L: { color: 'red', marginRight: '15px' },
   D: { color: 'grey', marginRight: '15px' },
   W: { color: 'green', marginRight: '15px' }
 }
 
+// Function to get the appropriate style based on result
 function getStyle(result) {
-  return styles[result] || {}
+  return styles[result] || {};
 }
 
+// LeagueTable component
 const LeagueTable = ({ standings }) => {
-  // conditional check for standings and standings.table
-  //if standings or standings.table is undefined
+  // Conditional check for undefined standings or standings.table
   if (!standings || !standings.table) {
     return <p>Loading...</p>;
   }
 
-  //else
+  // Log the standings table data
   console.log(standings.table);
 
   return (
@@ -42,6 +46,7 @@ const LeagueTable = ({ standings }) => {
           </tr>
         </thead>
         <tbody>
+          {/* Map over standings.table and render each row */}
           {standings.table.map(standing => (
             <tr
               key={standing.position}
@@ -75,6 +80,7 @@ const LeagueTable = ({ standings }) => {
                 <strong>{standing.points}</strong>
               </td>
               <td className='px-2 text-center'>
+                {/* Map over form results and apply styles */}
                 {standing.form.split(',').map((result, index) => (
                   <span key={index} style={getStyle(result)}>
                     {result}
@@ -86,6 +92,7 @@ const LeagueTable = ({ standings }) => {
         </tbody>
       </table>
     </div>
-  )
+  );
 }
-export default LeagueTable
+
+export default LeagueTable;

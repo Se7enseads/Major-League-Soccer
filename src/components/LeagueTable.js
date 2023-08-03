@@ -8,54 +8,47 @@ function getStyle(result) {
   return styles[result] || {}
 }
 
-const LeagueTable = ({ standings, league }) => {
+const LeagueTable = ({ standings }) => {
+  // conditional check for standings and standings.table
+  //if standings or standings.table is undefined
+  if (!standings || !standings.table) {
+    return <p>Loading...</p>;
+  }
+
+  //else
+  console.log(standings.table);
+
   return (
-    <div className='table-responsive'>
+    <div className='table-responsive mb-3'>
       <div className='d-flex align-items-center justify-content-center'>
-        <img src={league.emblem} alt='League Logo' height={'100px'} />
-        <h1 className='text-center mx-auto'>{league.name} Table</h1>
+        <img src={standings.emblem} alt='League Logo' height={'100px'} />
+        <h1 className='text-center mx-auto'>{standings.name} Table</h1>
       </div>
       <table className='table table-hover mx-auto w-auto align-middle'>
-        <thead
-          className='table-dark'
-          style={{
-            position: 'sticky',
-            top: 0
-          }}
-        >
+        <thead className='table-dark '>
           <tr>
             <th scope='col'>Pos</th>
             <th className='col-4' scope='col'>
               Team
             </th>
-            <th className='text-center' scope='col'>
-              Played
-            </th>
-            <th className='text-center' scope='col'>
-              Won
-            </th>
-            <th className='text-center' scope='col'>
-              Draw
-            </th>
-            <th className='text-center' scope='col'>
-              Lost
-            </th>
-            <th className='text-center' scope='col'>
-              Points
-            </th>
+            <th scope='col'>Played</th>
+            <th scope='col'>Won</th>
+            <th scope='col'>Draw</th>
+            <th scope='col'>Lost</th>
+            <th scope='col'>Points</th>
             <th className='text-center' scope='col'>
               Form
             </th>
           </tr>
         </thead>
         <tbody>
-          {standings.map((standing, index) => (
+          {standings.table.map(standing => (
             <tr
-              key={index}
+              key={standing.position}
               className={
-                standing.position <= 4
+                standing.position <= 3
                   ? 'table-success'
-                  : standing.position > 17
+                  : standing.position >= standings.table.length - 2
                     ? 'table-danger'
                     : null
               }
@@ -92,12 +85,6 @@ const LeagueTable = ({ standings, league }) => {
           ))}
         </tbody>
       </table>
-      {/* Legend */}
-      <div className=''>
-        <p>Red: Relegation.</p>
-        <p>Green: Champions League.</p>
-        <p>Light Green: UEFA.</p>
-      </div>
     </div>
   )
 }

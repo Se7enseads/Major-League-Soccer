@@ -1,39 +1,34 @@
 import { useEffect, useState } from 'react'
 import LeagueTable from './components/LeagueTable'
 
-const useStandingsData = (tableUrl, compUrl) => {
-  const [standings, setStandings] = useState([])
-  const [league, setLeague] = useState('')
-
-  useEffect(() => {
-    fetch(compUrl)
-      .then(response => response.json())
-      .then(data => {
-        setLeague(data)
-      })
-  }, [compUrl])
-
-  useEffect(() => {
-    fetch(tableUrl)
-      .then(response => response.json())
-      .then(data => {
-        setStandings(data[0].table)
-      })
-  }, [tableUrl])
-
-  return { standings, league }
-}
-
-const TABLE_URL = 'http://localhost:3000/standings'
-const COMP_URL = 'http://localhost:3000/competition'
-
 const App = () => {
-  const { standings, league } = useStandingsData(TABLE_URL, COMP_URL)
+
+  const [standings, setStandings] = useState([])
+
+  useEffect(() => {
+    fetch("http://localhost:3000/leagues/1")
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        return response.json();
+      })
+      .then(data => {
+        setStandings(data);
+
+      })
+      .catch(error => {
+        console.error("Error:", error);
+      });
+  }, []);
+
+  // console.log(standings);
+
   return (
     <div>
-      <LeagueTable standings={standings} league={league} />
+      <LeagueTable standings={standings} />
     </div>
-  )
+  );
 }
 
 export default App

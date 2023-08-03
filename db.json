@@ -11,8 +11,7 @@
           "position": 1,
           "team": {
             "id": 65,
-            "name": "Manchester City FC",
-            "shortName": "Man City",
+            "website": "https://www.mancity.com",
             "tla": "MCI",
             "crest": "https://crests.football-data.org/65.png"
           },
@@ -32,6 +31,7 @@
             "id": 57,
             "name": "Arsenal FC",
             "shortName": "Arsenal",
+            "website": "http://www.arsenal.com",
             "tla": "ARS",
             "crest": "https://crests.football-data.org/57.png"
           },
@@ -51,6 +51,7 @@
             "id": 66,
             "name": "Manchester United FC",
             "shortName": "Man United",
+            "website": "http://www.manutd.com",
             "tla": "MUN",
             "crest": "https://crests.football-data.org/66.png"
           },
@@ -70,6 +71,7 @@
             "id": 67,
             "name": "Newcastle United FC",
             "shortName": "Newcastle",
+            "website": "http://www.nufc.co.uk",
             "tla": "NEW",
             "crest": "https://crests.football-data.org/67.png"
           },
@@ -89,6 +91,7 @@
             "id": 64,
             "name": "Liverpool FC",
             "shortName": "Liverpool",
+            "website": "http://www.liverpoolfc.tv",
             "tla": "LIV",
             "crest": "https://crests.football-data.org/64.png"
           },
@@ -108,6 +111,7 @@
             "id": 397,
             "name": "Brighton & Hove Albion FC",
             "shortName": "Brighton Hove",
+            "website": "http://www.seagulls.co.uk",
             "tla": "BHA",
             "crest": "https://crests.football-data.org/397.svg"
           },
@@ -127,6 +131,7 @@
             "id": 58,
             "name": "Aston Villa FC",
             "shortName": "Aston Villa",
+            "website": "http://www.avfc.co.uk",
             "tla": "AVL",
             "crest": "https://crests.football-data.org/58.png"
           },
@@ -146,6 +151,7 @@
             "id": 73,
             "name": "Tottenham Hotspur FC",
             "shortName": "Tottenham",
+            "website": "http://www.tottenhamhotspur.com",
             "tla": "TOT",
             "crest": "https://crests.football-data.org/73.svg"
           },
@@ -165,6 +171,7 @@
             "id": 402,
             "name": "Brentford FC",
             "shortName": "Brentford",
+            "website": "http://www.brentfordfc.co.uk",
             "tla": "BRE",
             "crest": "https://crests.football-data.org/402.png"
           },
@@ -184,6 +191,7 @@
             "id": 63,
             "name": "Fulham FC",
             "shortName": "Fulham",
+            "website": "http://www.fulhamfc.com",
             "tla": "FUL",
             "crest": "https://crests.football-data.org/63.svg"
           },
@@ -203,6 +211,7 @@
             "id": 354,
             "name": "Crystal Palace FC",
             "shortName": "Crystal Palace",
+            "website": "http://www.cpfc.co.uk",
             "tla": "CRY",
             "crest": "https://crests.football-data.org/354.png"
           },
@@ -222,6 +231,7 @@
             "id": 61,
             "name": "Chelsea FC",
             "shortName": "Chelsea",
+            "website": "http://www.chelseafc.com",
             "tla": "CHE",
             "crest": "https://crests.football-data.org/61.png"
           },
@@ -241,6 +251,7 @@
             "id": 76,
             "name": "Wolverhampton Wanderers FC",
             "shortName": "Wolverhampton",
+            "website": "http://www.wolves.co.uk",
             "tla": "WOL",
             "crest": "https://crests.football-data.org/76.svg"
           },
@@ -260,6 +271,7 @@
             "id": 563,
             "name": "West Ham United FC",
             "shortName": "West Ham",
+            "website": "http://www.whufc.com",
             "tla": "WHU",
             "crest": "https://crests.football-data.org/563.png"
           },
@@ -279,6 +291,7 @@
             "id": 1044,
             "name": "AFC Bournemouth",
             "shortName": "Bournemouth",
+            "website": "http://www.afcb.co.uk",
             "tla": "BOU",
             "crest": "https://crests.football-data.org/1044.png"
           },
@@ -298,6 +311,7 @@
             "id": 351,
             "name": "Nottingham Forest FC",
             "shortName": "Nottingham",
+            "website": "http://www.nottinghamforest.co.uk",
             "tla": "NOT",
             "crest": "https://crests.football-data.org/351.png"
           },
@@ -317,6 +331,7 @@
             "id": 62,
             "name": "Everton FC",
             "shortName": "Everton",
+            "website": "http://www.evertonfc.com",
             "tla": "EVE",
             "crest": "https://crests.football-data.org/62.png"
           },
@@ -336,6 +351,7 @@
             "id": 338,
             "name": "Leicester City FC",
             "shortName": "Leicester City",
+            "website": "http://www.lcfc.com",
             "tla": "LEI",
             "crest": "https://crests.football-data.org/338.png"
           },
@@ -355,6 +371,7 @@
             "id": 341,
             "name": "Leeds United FC",
             "shortName": "Leeds United",
+            "website": "http://www.leedsunited.com",
             "tla": "LEE",
             "crest": "https://crests.football-data.org/341.png"
           },
@@ -374,6 +391,7 @@
             "id": 340,
             "name": "Southampton FC",
             "shortName": "Southampton",
+            "website": "http://www.saintsfc.co.uk",
             "tla": "SOU",
             "crest": "https://crests.football-data.org/340.png"
           },
@@ -402,6 +420,7 @@
             "id": 5,
             "name": "FC Bayern München",
             "shortName": "Bayern",
+            "website": "http://www.fcbayern.de",
             "tla": "FCB",
             "crest": "https://crests.football-data.org/5.svg"
           },
@@ -421,6 +440,7 @@
             "id": 4,
             "name": "Borussia Dortmund",
             "shortName": "Dortmund",
+            "website": "http://www.bvb.de",
             "tla": "BVB",
             "crest": "https://crests.football-data.org/4.png"
           },
@@ -440,6 +460,7 @@
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
+            "website": "http://www.dierotenbullen.com",
             "tla": "RBL",
             "crest": "https://crests.football-data.org/721.png"
           },
@@ -459,6 +480,7 @@
             "id": 28,
             "name": "1. FC Union Berlin",
             "shortName": "Union Berlin",
+            "website": "http://www.fc-union-berlin.de",
             "tla": "UNB",
             "crest": "https://crests.football-data.org/28.svg"
           },
@@ -478,6 +500,7 @@
             "id": 17,
             "name": "SC Freiburg",
             "shortName": "Freiburg",
+            "website": "http://www.scfreiburg.com",
             "tla": "SCF",
             "crest": "https://crests.football-data.org/17.svg"
           },
@@ -497,6 +520,7 @@
             "id": 3,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
+            "website": "http://www.bayer04.de",
             "tla": "B04",
             "crest": "https://crests.football-data.org/3.png"
           },
@@ -516,6 +540,7 @@
             "id": 19,
             "name": "Eintracht Frankfurt",
             "shortName": "Frankfurt",
+            "website": "http://www.eintracht.de",
             "tla": "SGE",
             "crest": "https://crests.football-data.org/19.svg"
           },
@@ -535,6 +560,7 @@
             "id": 11,
             "name": "VfL Wolfsburg",
             "shortName": "Wolfsburg",
+            "website": "http://www.vfl-wolfsburg.de",
             "tla": "WOB",
             "crest": "https://crests.football-data.org/11.svg"
           },
@@ -554,6 +580,7 @@
             "id": 15,
             "name": "1. FSV Mainz 05",
             "shortName": "Mainz",
+            "website": "http://www.mainz05.de",
             "tla": "M05",
             "crest": "https://crests.football-data.org/15.png"
           },
@@ -573,6 +600,7 @@
             "id": 18,
             "name": "Borussia Mönchengladbach",
             "shortName": "M'gladbach",
+            "website": "http://www.borussia.de",
             "tla": "BMG",
             "crest": "https://crests.football-data.org/18.png"
           },
@@ -592,6 +620,7 @@
             "id": 1,
             "name": "1. FC Köln",
             "shortName": "1. FC Köln",
+            "website": "http://www.fc-koeln.de",
             "tla": "KOE",
             "crest": "https://crests.football-data.org/1.png"
           },
@@ -611,6 +640,7 @@
             "id": 2,
             "name": "TSG 1899 Hoffenheim",
             "shortName": "Hoffenheim",
+            "website": "http://www.achtzehn99.de",
             "tla": "TSG",
             "crest": "https://crests.football-data.org/2.png"
           },
@@ -630,6 +660,7 @@
             "id": 12,
             "name": "SV Werder Bremen",
             "shortName": "Bremen",
+            "website": "http://www.werder.de",
             "tla": "SVW",
             "crest": "https://crests.football-data.org/12.svg"
           },
@@ -649,6 +680,7 @@
             "id": 36,
             "name": "VfL Bochum 1848",
             "shortName": "Bochum",
+            "website": "http://www.vfl-bochum.de",
             "tla": "BOC",
             "crest": "https://crests.football-data.org/36.png"
           },
@@ -668,6 +700,7 @@
             "id": 16,
             "name": "FC Augsburg",
             "shortName": "Augsburg",
+            "website": "http://www.fcaugsburg.de",
             "tla": "FCA",
             "crest": "https://crests.football-data.org/16.png"
           },
@@ -687,6 +720,7 @@
             "id": 10,
             "name": "VfB Stuttgart",
             "shortName": "Stuttgart",
+            "website": "http://www.vfb.de",
             "tla": "VFB",
             "crest": "https://crests.football-data.org/10.png"
           },
@@ -706,6 +740,7 @@
             "id": 6,
             "name": "FC Schalke 04",
             "shortName": "Schalke",
+            "website": "http://www.schalke04.de",
             "tla": "S04",
             "crest": "https://crests.football-data.org/6.png"
           },
@@ -725,6 +760,7 @@
             "id": 9,
             "name": "Hertha BSC",
             "shortName": "Hertha BSC",
+            "website": "http://www.herthabsc.de",
             "tla": "BSC",
             "crest": "https://crests.football-data.org/9.png"
           },
@@ -753,6 +789,7 @@
             "id": 524,
             "name": "Paris Saint-Germain FC",
             "shortName": "PSG",
+            "website": "http://www.psg.fr",
             "tla": "PSG",
             "crest": "https://crests.football-data.org/524.png"
           },
@@ -772,6 +809,7 @@
             "id": 546,
             "name": "Racing Club de Lens",
             "shortName": "RC Lens",
+            "website": "http://www.rclens.fr",
             "tla": "RCL",
             "crest": "https://crests.football-data.org/546.png"
           },
@@ -791,6 +829,7 @@
             "id": 516,
             "name": "Olympique de Marseille",
             "shortName": "Marseille",
+            "website": "http://www.om.net",
             "tla": "MAR",
             "crest": "https://crests.football-data.org/516.png"
           },
@@ -810,6 +849,7 @@
             "id": 529,
             "name": "Stade Rennais FC 1901",
             "shortName": "Stade Rennais",
+            "website": "http://www.staderennais.com",
             "tla": "REN",
             "crest": "https://crests.football-data.org/529.png"
           },
@@ -829,6 +869,7 @@
             "id": 521,
             "name": "Lille OSC",
             "shortName": "Lille",
+            "website": "http://www.losc.fr",
             "tla": "LIL",
             "crest": "https://crests.football-data.org/521.svg"
           },
@@ -848,6 +889,7 @@
             "id": 548,
             "name": "AS Monaco FC",
             "shortName": "Monaco",
+            "website": "http://www.asmonaco.com",
             "tla": "ASM",
             "crest": "https://crests.football-data.org/548.png"
           },
@@ -867,6 +909,7 @@
             "id": 523,
             "name": "Olympique Lyonnais",
             "shortName": "Olympique Lyon",
+            "website": "http://www.olweb.fr",
             "tla": "LYO",
             "crest": "https://crests.football-data.org/523.svg"
           },
@@ -886,6 +929,7 @@
             "id": 541,
             "name": "Clermont Foot 63",
             "shortName": "Clermont Foot",
+            "website": "http://www.clermontfoot.com",
             "tla": "CLF",
             "crest": "https://crests.football-data.org/541.svg"
           },
@@ -905,6 +949,7 @@
             "id": 522,
             "name": "OGC Nice",
             "shortName": "Nice",
+            "website": "http://www.ogcnice.com",
             "tla": "NIC",
             "crest": "https://crests.football-data.org/522.png"
           },
@@ -924,6 +969,7 @@
             "id": 525,
             "name": "FC Lorient",
             "shortName": "Lorient",
+            "website": "http://www.fclweb.fr",
             "tla": "FCL",
             "crest": "https://crests.football-data.org/525.png"
           },
@@ -943,6 +989,7 @@
             "id": 547,
             "name": "Stade de Reims",
             "shortName": "Stade de Reims",
+            "website": "http://www.stade-de-reims.com",
             "tla": "SDR",
             "crest": "https://crests.football-data.org/547.png"
           },
@@ -962,6 +1009,7 @@
             "id": 518,
             "name": "Montpellier HSC",
             "shortName": "Montpellier",
+            "website": "http://www.mhscfoot.com",
             "tla": "MON",
             "crest": "https://crests.football-data.org/518.png"
           },
@@ -981,6 +1029,7 @@
             "id": 511,
             "name": "Toulouse FC",
             "shortName": "Toulouse",
+            "website": "http://www.tfc.info",
             "tla": "TOU",
             "crest": "https://crests.football-data.org/511.png"
           },
@@ -1000,6 +1049,7 @@
             "id": 512,
             "name": "Stade Brestois 29",
             "shortName": "Brest",
+            "website": "http://www.stade-brestois.com",
             "tla": "BRE",
             "crest": "https://crests.football-data.org/512.png"
           },
@@ -1019,6 +1069,7 @@
             "id": 576,
             "name": "RC Strasbourg Alsace",
             "shortName": "Strasbourg",
+            "website": "http://www.rcstrasbourgalsace.fr",
             "tla": "RC ",
             "crest": "https://crests.football-data.org/576.png"
           },
@@ -1038,6 +1089,7 @@
             "id": 543,
             "name": "FC Nantes",
             "shortName": "Nantes",
+            "website": "http://www.fcnantes.com",
             "tla": "NAN",
             "crest": "https://crests.football-data.org/543.png"
           },
@@ -1057,6 +1109,7 @@
             "id": 519,
             "name": "AJ Auxerre",
             "shortName": "Auxerre",
+            "website": "http://www.aja.fr",
             "tla": "AJA",
             "crest": "https://crests.football-data.org/519.png"
           },
@@ -1076,6 +1129,7 @@
             "id": 510,
             "name": "AC Ajaccio",
             "shortName": "AC Ajaccio",
+            "website": "http://www.ac-ajaccio.com",
             "tla": "ACA",
             "crest": "https://crests.football-data.org/510.png"
           },
@@ -1095,6 +1149,7 @@
             "id": 531,
             "name": "ES Troyes AC",
             "shortName": "Troyes",
+            "website": "http://www.estac.fr",
             "tla": "ETR",
             "crest": "https://crests.football-data.org/531.svg"
           },
@@ -1114,6 +1169,7 @@
             "id": 532,
             "name": "Angers SCO",
             "shortName": "Angers SCO",
+            "website": "http://www.angers-sco.fr",
             "tla": "ANG",
             "crest": "https://crests.football-data.org/532.svg"
           },
@@ -1142,6 +1198,7 @@
             "id": 113,
             "name": "SSC Napoli",
             "shortName": "Napoli",
+            "website": "http://www.sscnapoli.it",
             "tla": "NAP",
             "crest": "https://crests.football-data.org/113.svg"
           },
@@ -1161,6 +1218,7 @@
             "id": 110,
             "name": "SS Lazio",
             "shortName": "Lazio",
+            "website": "http://www.sslazio.it",
             "tla": "LAZ",
             "crest": "https://crests.football-data.org/110.svg"
           },
@@ -1180,6 +1238,7 @@
             "id": 108,
             "name": "FC Internazionale Milano",
             "shortName": "Inter",
+            "website": "http://www.inter.it",
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
@@ -1199,6 +1258,7 @@
             "id": 109,
             "name": "Juventus FC",
             "shortName": "Juventus",
+            "website": "http://www.juventus.com",
             "tla": "JUV",
             "crest": "https://crests.football-data.org/109.svg"
           },
@@ -1218,6 +1278,7 @@
             "id": 98,
             "name": "AC Milan",
             "shortName": "Milan",
+            "website": "http://www.acmilan.com",
             "tla": "MIL",
             "crest": "https://crests.football-data.org/98.svg"
           },
@@ -1237,6 +1298,7 @@
             "id": 102,
             "name": "Atalanta BC",
             "shortName": "Atalanta",
+            "website": "http://www.atalanta.it",
             "tla": "ATA",
             "crest": "https://crests.football-data.org/102.svg"
           },
@@ -1256,6 +1318,7 @@
             "id": 100,
             "name": "AS Roma",
             "shortName": "Roma",
+            "website": "http://www.asroma.it",
             "tla": "ROM",
             "crest": "https://crests.football-data.org/100.svg"
           },
@@ -1275,6 +1338,7 @@
             "id": 99,
             "name": "ACF Fiorentina",
             "shortName": "Fiorentina",
+            "website": "http://www.acffiorentina.it",
             "tla": "FIO",
             "crest": "https://crests.football-data.org/99.svg"
           },
@@ -1294,6 +1358,7 @@
             "id": 103,
             "name": "Bologna FC 1909",
             "shortName": "Bologna",
+            "website": "http://www.bolognafc.it",
             "tla": "BOL",
             "crest": "https://crests.football-data.org/103.svg"
           },
@@ -1313,6 +1378,7 @@
             "id": 586,
             "name": "Torino FC",
             "shortName": "Torino",
+            "website": "http://www.torinofc.it",
             "tla": "TOR",
             "crest": "https://crests.football-data.org/586.svg"
           },
@@ -1332,6 +1398,7 @@
             "id": 5911,
             "name": "AC Monza",
             "shortName": "Monza",
+            "website": "https://www.acmonza.com/en/",
             "tla": "MON",
             "crest": "https://crests.football-data.org/5911.png"
           },
@@ -1351,6 +1418,7 @@
             "id": 115,
             "name": "Udinese Calcio",
             "shortName": "Udinese",
+            "website": "http://www.udinese.it",
             "tla": "UDI",
             "crest": "https://crests.football-data.org/115.png"
           },
@@ -1370,6 +1438,7 @@
             "id": 471,
             "name": "US Sassuolo Calcio",
             "shortName": "Sassuolo",
+            "website": "http://www.sassuolocalcio.it",
             "tla": "SAS",
             "crest": "https://crests.football-data.org/471.svg"
           },
@@ -1389,6 +1458,7 @@
             "id": 445,
             "name": "Empoli FC",
             "shortName": "Empoli",
+            "website": "http://www.empolicalcio.net",
             "tla": "EMP",
             "crest": "https://crests.football-data.org/445.png"
           },
@@ -1408,6 +1478,7 @@
             "id": 455,
             "name": "US Salernitana 1919",
             "shortName": "Salernitana",
+            "website": "http://www.ussalernitana1919.it",
             "tla": "SAL",
             "crest": "https://crests.football-data.org/455.png"
           },
@@ -1427,6 +1498,7 @@
             "id": 5890,
             "name": "US Lecce",
             "shortName": "Lecce",
+            "website": "https://www.uslecce.it/",
             "tla": "USL",
             "crest": "https://crests.football-data.org/5890.png"
           },
@@ -1446,6 +1518,7 @@
             "id": 450,
             "name": "Hellas Verona FC",
             "shortName": "Verona",
+            "website": "http://www.hellasverona.it",
             "tla": "HVE",
             "crest": "https://crests.football-data.org/450.png"
           },
@@ -1465,6 +1538,7 @@
             "id": 488,
             "name": "Spezia Calcio",
             "shortName": "Spezia Calcio",
+            "website": "http://www.acspezia.com",
             "tla": "SPE",
             "crest": "https://crests.football-data.org/488.svg"
           },
@@ -1484,6 +1558,7 @@
             "id": 457,
             "name": "US Cremonese",
             "shortName": "Cremonese",
+            "website": "http://www.uscremonese.it",
             "tla": "CRE",
             "crest": "https://crests.football-data.org/457.png"
           },
@@ -1503,6 +1578,7 @@
             "id": 584,
             "name": "UC Sampdoria",
             "shortName": "Sampdoria",
+            "website": "http://www.sampdoria.it",
             "tla": "SAM",
             "crest": "https://crests.football-data.org/584.svg"
           },
@@ -1531,6 +1607,7 @@
             "id": 81,
             "name": "FC Barcelona",
             "shortName": "Barça",
+            "website": "http://www.fcbarcelona.com",
             "tla": "FCB",
             "crest": "https://crests.football-data.org/81.svg"
           },
@@ -1550,6 +1627,7 @@
             "id": 86,
             "name": "Real Madrid CF",
             "shortName": "Real Madrid",
+            "website": "http://www.realmadrid.com",
             "tla": "RMA",
             "crest": "https://crests.football-data.org/86.png"
           },
@@ -1569,6 +1647,7 @@
             "id": 78,
             "name": "Club Atlético de Madrid",
             "shortName": "Atleti",
+            "website": "http://www.clubatleticodemadrid.com",
             "tla": "ATL",
             "crest": "https://crests.football-data.org/78.svg"
           },
@@ -1588,6 +1667,7 @@
             "id": 92,
             "name": "Real Sociedad de Fútbol",
             "shortName": "Real Sociedad",
+            "website": "http://www.realsociedad.com",
             "tla": "RSO",
             "crest": "https://crests.football-data.org/92.svg"
           },
@@ -1607,6 +1687,7 @@
             "id": 94,
             "name": "Villarreal CF",
             "shortName": "Villarreal",
+            "website": "http://www.villarrealcf.es",
             "tla": "VIL",
             "crest": "https://crests.football-data.org/94.png"
           },
@@ -1626,6 +1707,7 @@
             "id": 90,
             "name": "Real Betis Balompié",
             "shortName": "Real Betis",
+            "website": "http://www.realbetisbalompie.es",
             "tla": "BET",
             "crest": "https://crests.football-data.org/90.png"
           },
@@ -1645,6 +1727,7 @@
             "id": 79,
             "name": "CA Osasuna",
             "shortName": "Osasuna",
+            "website": "http://www.osasuna.es",
             "tla": "OSA",
             "crest": "https://crests.football-data.org/79.svg"
           },
@@ -1664,6 +1747,7 @@
             "id": 77,
             "name": "Athletic Club",
             "shortName": "Athletic",
+            "website": "http://www.athletic-club.eus",
             "tla": "ATH",
             "crest": "https://crests.football-data.org/77.png"
           },
@@ -1683,6 +1767,7 @@
             "id": 89,
             "name": "RCD Mallorca",
             "shortName": "Mallorca",
+            "website": "http://www.rcdmallorca.es",
             "tla": "MAL",
             "crest": "https://crests.football-data.org/89.png"
           },
@@ -1702,6 +1787,7 @@
             "id": 298,
             "name": "Girona FC",
             "shortName": "Girona",
+            "website": "http://www.gironafc.cat",
             "tla": "GIR",
             "crest": "https://crests.football-data.org/298.png"
           },
@@ -1721,6 +1807,7 @@
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
+            "website": "http://www.sevillafc.es",
             "tla": "SEV",
             "crest": "https://crests.football-data.org/559.svg"
           },
@@ -1740,6 +1827,7 @@
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
             "shortName": "Rayo Vallecano",
+            "website": "http://www.rayovallecano.es",
             "tla": "RAY",
             "crest": "https://crests.football-data.org/87.svg"
           },
@@ -1759,6 +1847,7 @@
             "id": 558,
             "name": "RC Celta de Vigo",
             "shortName": "Celta",
+            "website": "http://www.celtavigo.net",
             "tla": "CEL",
             "crest": "https://crests.football-data.org/558.svg"
           },
@@ -1778,6 +1867,7 @@
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
+            "website": "http://www.valenciacf.com",
             "tla": "VAL",
             "crest": "https://crests.football-data.org/95.svg"
           },
@@ -1797,6 +1887,7 @@
             "id": 82,
             "name": "Getafe CF",
             "shortName": "Getafe",
+            "website": "http://www.getafecf.com",
             "tla": "GET",
             "crest": "https://crests.football-data.org/82.png"
           },
@@ -1816,6 +1907,7 @@
             "id": 264,
             "name": "Cádiz CF",
             "shortName": "Cádiz CF",
+            "website": "http://www.cadizcf.com",
             "tla": "CAD",
             "crest": "https://crests.football-data.org/264.png"
           },
@@ -1835,6 +1927,7 @@
             "id": 267,
             "name": "UD Almería",
             "shortName": "Almería",
+            "website": "http://www.udalmeriasad.com",
             "tla": "ALM",
             "crest": "https://crests.football-data.org/267.png"
           },
@@ -1854,6 +1947,7 @@
             "id": 250,
             "name": "Real Valladolid CF",
             "shortName": "Valladolid",
+            "website": "http://www.realvalladolid.es",
             "tla": "VDD",
             "crest": "https://crests.football-data.org/250.png"
           },
@@ -1873,6 +1967,7 @@
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
+            "website": "http://www.rcdespanyol.com",
             "tla": "ESP",
             "crest": "https://crests.football-data.org/80.svg"
           },
@@ -1892,6 +1987,7 @@
             "id": 285,
             "name": "Elche CF",
             "shortName": "Elche",
+            "website": "http://www.elchecf.es",
             "tla": "ELC",
             "crest": "https://crests.football-data.org/285.png"
           },

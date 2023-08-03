@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Phase-2-Project;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description:
+This Project is based on sports, majorly soccer. As a group, our main aim was to counter the randomly stated complains by the market, on football sites, and the outstanding issue was the quality of live streamed games, and occasional occuring advertisements that hinder the audience's moments of enjoyment.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Installation Requirement:
+-A properly-functioning computer, phone, or Ipad.
+-Access to the internet.
+-Stable and secure wifi/network connection.
+-Access to constant power supply.
 
-### `npm start`
+# Installation Process:
+For this proeject, one will need to install Node.js and run the following commands: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Head to this project's Git-Hub Repository via 'https://github.com/Se7enseads/Major-League-Soccer'
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Clone this project to your local machine by running [git clone] and pasting the project's github URL.
 
-### `npm test`
+3.Route through the project by coding [cd Major-League-Soccer]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4.Open VS Code by running [code .]
 
-### `npm run build`
+5.In the VS Code terminal Install the project's dependancies --->
+ [npm install] 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6.Open a new terminal tab and run the project live in the browser by coding 
+[npm start]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+7.View Project in the Browser! 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Technology Used:
+For the success of this project, we were focused on the following languages:
+-React Javascript
+-HTML
+-CSS
 
-### `npm run eject`
+# License:
+MIT License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Copyright (c) [2023] [MajorLeagueSoccer]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-## Learn More
+# Our Phase-1 summary preview:
+In this project, each member was assigned their roles as described below:
+-> Adam Kelly => Landing Page.
+-> Kyle Mututo => League Page.
+-> Samuel Mwangi => Team Page Information.
+-> Olive Muthui => Team's Information Page.(In collaboration with Samuel Mwangi.)
+-> Peter Mwangi => League Page. (In collaboration with Kyle Mututo.)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Known Errors:
+- During building the project, we encountered bugs in relation with Routing of the links within the application.

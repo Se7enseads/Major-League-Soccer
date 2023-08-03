@@ -8,7 +8,7 @@ const styles = {
 }
 
 // Function to get the appropriate style based on result
-function getStyle(result) {
+function getStyle (result) {
   return styles[result] || {}
 }
 
@@ -18,9 +18,6 @@ const LeagueTable = ({ standings }) => {
   if (!standings || !standings.table) {
     return <p>Loading...</p>
   }
-
-  // Log the standings table data
-  console.log(standings.table)
 
   return (
     <div className='table-responsive mb-3'>
@@ -54,8 +51,8 @@ const LeagueTable = ({ standings }) => {
                 standing.position <= 3
                   ? 'table-success'
                   : standing.position >= standings.table.length - 2
-                    ? 'table-danger'
-                    : null
+                  ? 'table-danger'
+                  : null
               }
             >
               <th scope='row' className='px-2'>
@@ -70,7 +67,7 @@ const LeagueTable = ({ standings }) => {
                   style={{ marginRight: '10px' }}
                 />
                 <a
-                  className='link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover text-dark'
+                  className='link-offset-2 link-offset-3-hover link-underline  link-underline-opacity-0 link-underline-opacity-75-hover text-dark'
                   href={standing.team.website} // Replace with the actual team's website URL
                   target='_blank'
                   rel='noreferrer' // Open the link in a new tab

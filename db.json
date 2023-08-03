@@ -11,6 +11,7 @@
           "position": 1,
           "team": {
             "id": 65,
+            "shortName": "Man City",
             "website": "https://www.mancity.com",
             "tla": "MCI",
             "crest": "https://crests.football-data.org/65.png"

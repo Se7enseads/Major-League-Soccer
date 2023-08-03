@@ -8,7 +8,7 @@ const App = () => {
   // useEffect hook to fetch data when the component mounts.
   useEffect(() => {
     // Fetch data from the API.
-    fetch('http://localhost:3000/leagues/3')
+    fetch('http://localhost:3000/leagues/1')
       .then(response => {
         // Check if the response is not okay and throw an error if necessary.
         if (!response.ok) {

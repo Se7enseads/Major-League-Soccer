@@ -15,7 +15,7 @@ const App = () => {
     // Fetch data from the API using the selected league ID
     fetch(
       `https://api.npoint.io/182f09016d8384795641/leagues/${selectedLeagueId -
-      1}`
+        1}`
     )
       .then(response => {
         if (!response.ok) {

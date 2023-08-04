@@ -10,7 +10,7 @@ const styles = {
 }
 
 // Function to get the appropriate style based on result
-function getStyle(result) {
+function getStyle (result) {
   return styles[result] || {}
 }
 
@@ -18,9 +18,7 @@ function getStyle(result) {
 const LeagueTable = ({ standings }) => {
   // Conditional check for undefined standings or standings.table
   if (!standings || !standings.table) {
-    return (
-      <Error />
-    )
+    return <Error />
   }
 
   return (
@@ -62,8 +60,8 @@ const LeagueTable = ({ standings }) => {
                   standing.position <= 3
                     ? 'table-success'
                     : standing.position >= standings.table.length - 2
-                      ? 'table-danger'
-                      : null
+                    ? 'table-danger'
+                    : null
                 }
               >
                 <th scope='row' className='px-2'>

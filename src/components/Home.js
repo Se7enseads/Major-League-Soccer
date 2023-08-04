@@ -1,6 +1,7 @@
 import React from 'react'
 import NavBar from './NavBar'
 import backgroundImageUrl from '../assets/background.jpg' // Import the background image
+import GitHub from '../assets/Github.svg'
 
 // Style for the container
 const containerStyle = {
@@ -42,6 +43,16 @@ function Home () {
               users with up-to-date standings and information. Overall, this
               project demonstrates the power of teamwork, utilizing React and
               Bootstrap to create an engaging and interactive web application.
+              <br />
+              <span>
+                <a
+                  href='https://github.com/Se7enseads/Major-League-Soccer'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  <img src={GitHub} alt='Project' height={'30px'} />
+                </a>
+              </span>
             </p>
           </section>
         </div>

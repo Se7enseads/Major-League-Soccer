@@ -13,7 +13,10 @@ const App = () => {
   // useEffect hook to fetch data when the selected league ID changes
   useEffect(() => {
     // Fetch data from the API using the selected league ID
-    fetch(`http://localhost:3000/leagues/${selectedLeagueId}`)
+    fetch(
+      `https://api.npoint.io/182f09016d8384795641/leagues/${selectedLeagueId -
+      1}`
+    )
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok')

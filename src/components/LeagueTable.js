@@ -9,7 +9,7 @@ const styles = {
 }
 
 // Function to get the appropriate style based on result
-function getStyle(result) {
+function getStyle (result) {
   return styles[result] || {}
 }
 
@@ -59,8 +59,8 @@ const LeagueTable = ({ standings }) => {
                   standing.position <= 3
                     ? 'table-success'
                     : standing.position >= standings.table.length - 2
-                      ? 'table-danger'
-                      : null
+                    ? 'table-danger'
+                    : null
                 }
               >
                 <th scope='row' className='px-2'>

@@ -11,7 +11,8 @@
   "scripts": {
     "start": "react-scripts start",
     "json": "json-server --watch db.json",
-    "format": "prettier-standard --format"
+    "format": "prettier-standard --format",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
